@@ -36,3 +36,17 @@
   height: 200px;
   width: 200px;
 }
+li{
+list-style-type: none;
+}
+
+a:link {
+  color: white;
+}
+
+
+
+a:hover {
+  color: rgb(160, 159, 159);
+}
+
