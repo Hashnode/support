@@ -47,7 +47,6 @@ const features = [
     ),
   },{
     title: 'Getting Started',
-    // imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
         <li><a href = "link">Using Hashnode</a></li>
@@ -60,7 +59,6 @@ const features = [
   },
   {
     title: 'Mapping to Custom Domain',
-    // imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
        <li><a href = "link">Introduction</a></li>
@@ -72,7 +70,6 @@ const features = [
   },
   {
     title: 'Writing and Editing',
-    // imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
     
@@ -87,14 +84,8 @@ const features = [
 ];
 
 function Feature({ title, description}) {
-  // const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
-      {/* {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
-        </div>
-      )} */}
       <h3>{title}</h3>
       <p>{description}</p>
     </div>
