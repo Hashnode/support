@@ -23,7 +23,7 @@ module.exports = {
         //   position: 'left',
         // },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://hashnode.com',
           label: 'Back to Hashnode',
           position: 'right',
         },
@@ -57,7 +57,7 @@ module.exports = {
               href: 'https://twitter.com/hashnode',
             },
             {
-              label: 'Livee Chat: Join our Discord Server',
+              label: 'Live Chat: Join our Discord Server',
               href: 'https://discord.gg/qsAQfxX',
             },
           ],
@@ -75,7 +75,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/hashnode/hashnode-guide/',
         },
     
         theme: {
