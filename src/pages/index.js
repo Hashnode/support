@@ -8,46 +8,93 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Getting Started',
+    // imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <li><a href = "link">Using Hashnode</a></li>
+        <li><a href = "link">Hashnode Glossary</a></li>
+        <li><a href = "link">Create Personal Blog</a></li>
+        <li><a href = "link">Bug Reports and Feature Requests</a></li>
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Mapping to Custom Domain',
+    // imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       <li><a href = "link">Introduction</a></li>
+        <li><a href = "link">From GoDaddy</a></li>
+        <li><a href = "link">From Cloudfare</a></li>
+        <li><a href = "link">From Namecheap</a></li>
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Writing and Editing',
+    // imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+    
+        <li><a href = "link">Write and Article</a></li>
+        <li><a href = "link">Cover Photo</a></li>
+        <li><a href = "link">Markdown Guidelines</a></li>
+        <li><a href = "link">Edit</a></li>
+      
+      </>
+    ),
+  },{
+    title: 'Getting Started',
+    // imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        <li><a href = "link">Using Hashnode</a></li>
+        <li><a href = "link">Hashnode Glossary</a></li>
+        <li><a href = "link">Create Personal Blog</a></li>
+        <li><a href = "link">Bug Reports and Feature Requests</a></li>
+
+      </>
+    ),
+  },
+  {
+    title: 'Mapping to Custom Domain',
+    // imageUrl: 'img/undraw_docusaurus_tree.svg',
+    description: (
+      <>
+       <li><a href = "link">Introduction</a></li>
+        <li><a href = "link">From GoDaddy</a></li>
+        <li><a href = "link">From Cloudfare</a></li>
+        <li><a href = "link">From Namecheap</a></li>
+      </>
+    ),
+  },
+  {
+    title: 'Writing and Editing',
+    // imageUrl: 'img/undraw_docusaurus_react.svg',
+    description: (
+      <>
+    
+        <li><a href = "link">Write and Article</a></li>
+        <li><a href = "link">Cover Photo</a></li>
+        <li><a href = "link">Markdown Guidelines</a></li>
+        <li><a href = "link">Edit</a></li>
+      
       </>
     ),
   },
 ];
 
-function Feature({imageUrl, title, description}) {
-  const imgUrl = useBaseUrl(imageUrl);
+function Feature({ title, description}) {
+  // const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
+      {/* {imgUrl && (
         <div className="text--center">
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
-      )}
+      )} */}
       <h3>{title}</h3>
       <p>{description}</p>
     </div>
@@ -60,7 +107,7 @@ function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Welcome to Hashnode Support">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
