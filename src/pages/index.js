@@ -9,74 +9,72 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Getting Started',
-    // imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        <li><a href = "link">Using Hashnode</a></li>
-        <li><a href = "link">Hashnode Glossary</a></li>
-        <li><a href = "link">Create Personal Blog</a></li>
-        <li><a href = "link">Bug Reports and Feature Requests</a></li>
+        <li><a href = "docs/">Using Hashnode</a></li>
+        <li><a href = "docs/hashnode-glossary">Hashnode Glossary</a></li>
+        <li><a href = "docs/create-personal-blog">Create Personal Blog</a></li>
+        <li><a href = "docs/bug-reports-and-feature-request">Bug Reports and Feature Requests</a></li>
 
       </>
     ),
   },
   {
     title: 'Mapping to Custom Domain',
-    // imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-       <li><a href = "link">Introduction</a></li>
-        <li><a href = "link">From GoDaddy</a></li>
-        <li><a href = "link">From Cloudfare</a></li>
-        <li><a href = "link">From Namecheap</a></li>
+       <li><a href = "docs/mapping-domain">Introduction</a></li>
+        <li><a href = "docs/mapping-godaddy">Mapping From GoDaddy</a></li>
+        <li><a href = "docs/mapping-cloudfare">Mapping From Cloudfare</a></li>
+        <li><a href = "docs/mapping-namecheap">Mapping From Namecheap</a></li>
       </>
     ),
   },
   {
     title: 'Writing and Editing',
-    // imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
     
-        <li><a href = "link">Write and Article</a></li>
-        <li><a href = "link">Cover Photo</a></li>
-        <li><a href = "link">Markdown Guidelines</a></li>
-        <li><a href = "link">Edit</a></li>
-      
+        <li><a href = "docs/write-an-article">Write and Article</a></li>
+        <li><a href = "docs/markdown-guidelines">Markdown Guidelines</a></li>
+        <li><a href = "docs/edit-article">Edit Published Article </a></li>
+        <li><a href = "docs/edit-drafts">Edit Drafts </a></li>
       </>
     ),
   },{
-    title: 'Getting Started',
+    title: 'Settings & Customization',
     description: (
       <>
-        <li><a href = "link">Using Hashnode</a></li>
-        <li><a href = "link">Hashnode Glossary</a></li>
-        <li><a href = "link">Create Personal Blog</a></li>
-        <li><a href = "link">Bug Reports and Feature Requests</a></li>
+        <li><a href = "docs/account-settings">Update Profile Page</a></li>
+        <li><a href = "docs/analytics">Analytics</a></li>
+        <li><a href = "docs/general-settings">General Settings</a></li>
+        <li><a href = "docs/github-backup">Auto GitHub Backup</a></li>
 
       </>
     ),
   },
   {
-    title: 'Mapping to Custom Domain',
+    title: 'Safety & Policies',
     description: (
       <>
-       <li><a href = "link">Introduction</a></li>
-        <li><a href = "link">From GoDaddy</a></li>
-        <li><a href = "link">From Cloudfare</a></li>
-        <li><a href = "link">From Namecheap</a></li>
+       <li><a href = "docs/community-code-of-conduct">Community Code of Conduct
+
+</a></li>
+        <li><a href = "docs/report-copyright-infringement">Report Copyright Infringement</a></li>
+        <li><a href = "docs/report-posts-and-users#report-posts">Report Posts</a></li>
+        <li><a href = "docs/report-posts-and-users#report-users">Report Users</a></li>
       </>
     ),
   },
   {
-    title: 'Writing and Editing',
+    title: 'Frequently Asked Questions',
     description: (
       <>
     
-        <li><a href = "link">Write and Article</a></li>
-        <li><a href = "link">Cover Photo</a></li>
-        <li><a href = "link">Markdown Guidelines</a></li>
-        <li><a href = "link">Edit</a></li>
+        <li><a href = "docs/faqs#how-can-i-save-a-draft-on-hashnode">How can I save a draft on Hashnode?</a></li>
+        <li><a href = "docs/faqs#whats-an-impressum">What's an Impressum?</a></li>
+        <li><a href = "docs/faqs#which-embeds-are-supported-by-hashnode">Which embeds are supported by Hashnode?</a></li>
+        <li><a href = "docs/faqs#how-can-i-set-a-canonical-url">How can I set a canonical URL?</a></li>
       
       </>
     ),
