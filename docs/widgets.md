@@ -3,7 +3,7 @@ id: widgets
 title: Widgets
 ---
 
-Widgets are regular embeds that can be inserted anywhere in your articles. This feature allows you to embed any third party widget (embeds/iframes outside the [embeds we support by default](embeds)) inside your articles with no limitations.
+Widgets are regular embeds that can be inserted anywhere in your articles. This feature allows you to embed any third party widget (embeds/iframes outside the ([embeds we support by default](embeds)) inside your articles with no limitations.
 
 When you create a widget in your dashboard, you can insert it in your article like so:
 
@@ -27,27 +27,24 @@ Here is how to create a widget
 
 4. Click on the **WIDGETS** tab to create, edit, and delete a widget.
 
-![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601385372222/W7VpH5uU3.png?auto=compress)
+![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1611048710947/0Jw2reiGr.png?auto=compress)
 
 5. Click on the **Add new Widget** button to create a new widget.
 
-![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601385401651/9prnXSgbj.png?auto=compress)
+![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1611048886377/6iHl2iubD.png?auto=compress)
 
-6. Paste the **embed code** and enter the **widget id** in the field provided (e.g., a widget to add the twitter timeline os a particular username named **twitter-timeline**).
+6. Paste the **embed code** and enter the **widget id** in the field provided (e.g., a widget to add the twitter timeline os a particular username named **twitter-timeline**). Then, click on the **Create** button to save your changes.
 
-![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601386713951/-No_8TZel.png?auto=compress)
-
-7. Click on the **Create** button to save your changes.
+![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1611049339606/SOV-2mJmj.png?auto=compress)
 
 ![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601386900728/P4YIDPFf3.png?auto=compress)
 
-8. Refer to the created widget inside your article using the syntax `%%[widget-id-here]`.
+7. Refer to the created widget inside your article using the syntax `%%[widget-id-here]`.
 
 ![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601387043166/w46Hr9v0i.png?auto=compress)
 
 ![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601387063562/oLbAns4ul.png?auto=compress)
 
-9. To edit or delete any widget, visit the **WIDGETS** tab again and click on the **Edit Widget** or **Delete** button, respectively.
+8. To edit or delete any widget, visit the **WIDGETS** tab again and click on the **Edit Widget** or **Delete** button, respectively.
 
-![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1601387173971/-tBeVsDPp.png?auto=compress)
-
+![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1611049723137/4uiXgZvwa.png?auto=compress)

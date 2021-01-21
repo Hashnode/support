@@ -2,8 +2,6 @@
 id: appearance
 title: Appearance
 ---
-
-
 You can customize the look, feel, and layout of your blog by adding colors and images to change your blog's appearance.
 
 We are also working to introduce custom themes and CSS support to help you speed up customizing your blog with various options.
@@ -24,7 +22,6 @@ Here is how to update the general settings of your blog:
 
 4. Click on the **APPEARANCE** tab to update your **Header color**, **Publication Logo**, **Publication Thumbnail**, **Homepage layout**, and **Default dark mode**.
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1601389996359/t9VafvXtZ.png?auto=compress)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611069377691/GPmNs5-8L.png?auto=compress)
 
 5. Click on the **Update** button to save your changes.
-

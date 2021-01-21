@@ -23,27 +23,23 @@ Here is how to import your stories from Medium:
 
 ![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
 
-5. In the **IMPORT** tab, you will find the **Quick Actions** section at the top-right corner of the page on your *desktop* screen or Toggle-quick settings on your *mobile* screen.
+5. Navigate to **IMPORT**, and click on **Medium Importer** to access the section for importing Medium articles.
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1601404116952/dfPRRmAOa.png?auto=compress)
+![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1611055843007/3Js80onru.png?auto=compress)
 
-6. Click on the **Import from Medium** button, insert the link to your medium article in the popup, and click **Ok** to complete.
+6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export. The zip file will be uploaded and processed (this may take a few minutes).
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1601403688650/BBw_I_xmo.png?auto=compress)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611057834660/jJ5eQh8N0.png?auto=compress)
 
-7. Alternatively, you can import multiple stories by clicking on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export. The zip file will be uploaded and processed (this may take a few minutes).
+7. Check the articles you want to import from the displayed list and click on the **Publish** button.
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1601403935066/AbDy921SQ.png?auto=compress)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611058306311/X4dQDG2wg.png?auto=compress)
 
-8. Check the articles you want to import from the displayed list and click on the **Publish** button.
-
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1601407679492/LM9wYfIku.png?auto=compress)
-
-9. Your article(s) will be automatically published, and you can make edits afterward.
+8. Your article(s) will be automatically published, and you can make edits afterward.
 
 ## DEV Importer
 
-⚠️ The content you import is reviewed manually. Please import only the content you own. Importing posts you have not written yourself is a violation of our T&C and may result in a ban.
+> ⚠️ The content you import is reviewed manually. Please import only the content you own. Importing posts you have not written yourself is a violation of our T&C and may result in a ban.
 
 Here is how to import your articles from DEV:
 
@@ -57,9 +53,28 @@ Here is how to import your articles from DEV:
 
 ![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
 
-4. In the **IMPORT** tab, enter the post URL or DEV username for multiple imports in the field provided and click on the **Import** button to complete the process.
+4. Navigate to **IMPORT**, and click on **DEV Importer** to access the section for importing DEV article(s). 
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1601405849559/YL_zpYJou.png?auto=compress)
+5. In the **IMPORT** tab, enter the post URL or DEV username for multiple imports in the field provided and click on the **Import** button to complete the process.
 
-5. Your article(s) will be automatically published, and you can make edits afterward.
+![Import from DEV](https://cdn.hashnode.com/res/hashnode/image/upload/v1611058663876/MWFXkPUUB.png?auto=compress)
 
+6. Your article(s) will be automatically published, and you can make edits afterward.
+
+## Bulk Markdown Importer
+
+With the new bulk markdown importer, you can import a zip file containing posts in markdown format. Follow the steps below to use this feature.
+
+1. Go to your blog's dashboard, navigate to the **IMPORT** tab, and click on Bulk Markdown Importer.
+
+![Import Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1608287241440/hwGTtCTR6.png)
+
+2. Click on **UPLOAD YOUR MARKDOWN ZIP FILE** to upload a zipped version of the markdown file.
+
+![Bulk Markdown Importer](https://cdn.hashnode.com/res/hashnode/image/upload/v1608287438623/7960gsZzq.png)
+
+> Your zip file should contain a `.md` file for each post. The importer will read the markdown frontmatter (title, slug, date, and image) of your `.md` file and use it for your blog post.
+
+3. Finally, click on the **Publish** button to publish the markdown file(s) to your blog.
+
+![Bulk Markdown Importer](https://cdn.hashnode.com/res/hashnode/image/upload/v1608288165414/nWUcJCZmG.png)

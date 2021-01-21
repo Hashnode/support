@@ -3,4 +3,8 @@ id: change-log
 title: Changelog
 ---
 
-Content to be Added. 
+Hashnode changelog keeps you updated on the changes made on Hashnode regularly. It includes records of changes such as bug fixes, new features, feature upgrades, why the changes were made, and how these changes will improve your experience with Hashnode for you.
+
+Click on the link below to access our changelog page.
+
+%[https://hashnode.com/changelog]

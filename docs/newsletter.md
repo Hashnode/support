@@ -10,7 +10,7 @@ You can build your subscribers base with our inbuilt newsletter system, allowing
 - Your emails originate from **hashnode-username@mail.hashnode.blog**. Each email's reply-to points to your Hashnode email address so that your subscribers can reply if they like.
 - Every email has a one-click unsubscribe link. However, if some of your subscribers mark your emails as spam or report abuse, they won't receive your emails in the future. We take care of this automatically by maintaining a suppression list.
 - If you disable the newsletter feature on your blog, you can still access your previous subscribers **if you re-enable the newsletter**.
-- If you want to import subscribers from a **.csv** file, kindly [contact us](https://discord.gg/qsAQfxX) (We made this exclusive to selected users to prevent mass spamming imports).
+- If you want to import subscribers from a **.csv** file, kindly [contact us](mailto:hello@hashnode.com) (We made this exclusive to selected users to prevent mass spamming imports).
 
 ---
 
@@ -28,19 +28,16 @@ Here is how to set up a newsletter on your blog:
 
 4. Click on the **NEWSLETTER** tab to enable or disable the newsletter service for your blog.
 
-![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1601388643896/7ZkcgF2AH.png?auto=compress)
+![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611050839343/0LgSDlnPj.png?auto=compress)
 
 5. Click on the **Enable newsletter service for your blog** toggle to enable or disable the newsletter service on your blog.
 
-![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1601388579227/kzr_0CZz-.png?auto=compress)
+![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611050871902/qVUKsQEx3.png?auto=compress)
 
 6. You will now see a popup prompt, click **OK** to confirm your desired change.
 
-![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1601388370140/szWf3FxG7.png?auto=compress)
+![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611051270679/EjYwmeda5.png?auto=compress)
 
 6. You can also view your subscriber's list below.
 
-![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1601388148015/eodaAF5wO.png?auto=compress)
-
-> This feature is still in beta, and we're always working to improve the newsletter service with more flexibility and functionalities.
-
+![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611051312684/_p_JgTzUm.png?auto=compress)

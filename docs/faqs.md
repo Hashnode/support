@@ -3,6 +3,8 @@ id: faqs
 title: Frequently Asked Questions
 ---
 
+Find below frequently asked questions about Hashnode:
+
 ## How can I add a custom domain to my blog?
 
 Learn how to add and set up a custom domain to your Hashnode blog [here](mapping-domain).
@@ -18,6 +20,10 @@ You don't need to save a draft because it's already saved automatically for you 
 ## What's a Markdown format?
 
 Markdown is a lightweight plaintext markup language that you can use to add elements to plaintext documents rather than using the older WYSIWYG editor. Hashnode's editor supports the Markdown syntax and allows you to format your articles easily.
+
+## Can I create a team publication on Hashnode? 
+
+The Team Blog feature is currently **in beta** (ongoing testing/improvements), and is not available publicly to all Hashnode users, and will become a **paid feature** soon. However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please [contact us](mailto:hello@hashnode.com) to request to join the beta access list.
 
 ## What's an Impressum?
 
@@ -87,6 +93,10 @@ This is our [Privacy policy](https://hashnode.com/privacy) and [Terms of service
 
 We ban accounts when the author's articles or discussions have been reported multiple times by Hashnode community members. You can also be banned if you don't follow our community code of conduct. To request for a review, send an email to [hello@hashnode.com](mailto:hello@hashnode.com?subject=My%20account%20is%20banned).
 
----
+## I completed a challenge but the badge isn't reflecting on my blog. Why?
 
-Need more help? [Contact us](mailto:hello@hashnode.com)
+Our badges cron job runs once per day. So, your badge will reflect in 24 hours. If it doesn't reflect after 24 hours, [contact us](mailto:hello@hashnode.com).
+
+## How can I become a tag moderator on Hashnode?
+
+To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/tags) you want to moderate, and fill up [this form](https://forms.gle/WxMGRQ9thEgYSuM29). We will review and assign the role to you.
