@@ -16,7 +16,7 @@ We also feature top articles on the **🔥Best** section at the top of our feeds
 
 ## Create an Account
 
-To get started with Hashnode, you need to create a free account using any of our multiple authentication options. With your Hashnode account, you can [create a personal blog](create-personal-blog), [create multiple team blogs](create-team-blog),  [publish your own articles](write-an-article), [interact with the community](#read-articles), [follow your favourite blogs](https://help.hashnode.com/docs), [bookmark articles](https://help.hashnode.com/docs), [join writing challenges](#join-the-2articles1week-challenge) and much more.
+To get started with Hashnode, you need to create a free account using any of our multiple authentication options. With your Hashnode account, you can [create a personal blog](create-personal-blog), [create multiple team blogs](create-team-blog),  [publish your own articles](write-an-article), [interact with the community](#read-articles), follow your favourite blogs, bookmark articles, [join writing challenges](#join-the-2articles1week-challenge) and much more.
 
 [Sign in and Create an account](#create-an-account) using our passwordless authentication process with your email address or social accounts.
 
@@ -26,9 +26,9 @@ You can [write and publish](write-an-article) articles using our powerful markdo
 
 ## Read Articles
 
-You can read articles from thousands of writers from diverse regions, and interact with them by [reacting on their article](hashnode-glossary#reaction), [giving feedback by commenting](https://help.hashnode.com/docs), and [sharing their article](https://help.hashnode.com/docs).
+You can read articles from thousands of writers from diverse regions, and interact with them by [reacting on their article](hashnode-glossary#reaction), giving feedback by commenting, and sharing their article.
 
-Don't forget to [follow  your preferred tags](https://hashnode.com/tags) to ensure that our [feeds algorithm](https://help.hashnode.com/docs) recommends articles that match your interest.
+Don't forget to [follow  your preferred tags](https://hashnode.com/tags) to ensure that our feeds algorithm recommends articles that match your interest.
 
 ## Join the #2Articles1Week Challenge
 
