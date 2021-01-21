@@ -16,12 +16,7 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        // {
-        //   to: 'docs/',
-        //   activeBasePath: 'docs',
-        //   label: 'Docs',
-        //   position: 'left',
-        // },
+      
         {
           href: 'https://hashnode.com',
           label: 'Back to Hashnode',
@@ -29,7 +24,18 @@ module.exports = {
         },
       ],
     },
+    algolia: {
+      apiKey: 'YOUR_API_KEY',
+      indexName: 'YOUR_INDEX_NAME',
 
+      // Optional: see doc section bellow
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      //... other Algolia params
+    },
     footer: {
       style: 'dark',
       links: [
@@ -55,6 +61,9 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Hashnode`,
     },
+   
+  
+  
   },
   presets: [
     [
