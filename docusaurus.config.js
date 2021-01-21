@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Hashnode Support',
   tagline: 'Your go-to guide for understanding Hashnode a little better',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://help.hashnode.com/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -25,9 +25,9 @@ module.exports = {
       ],
     },
     algolia: {
-      apiKey: 'YOUR_API_KEY',
-      indexName: 'YOUR_INDEX_NAME',
-
+      apiKey: '305263fb84ef16726fa5fed053a33e75',
+      indexName: 'docs',
+      appId : 'CV8UITYCL5',
       // Optional: see doc section bellow
       contextualSearch: true,
 
