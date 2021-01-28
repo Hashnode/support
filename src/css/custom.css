@@ -6,6 +6,9 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=block');
+
 :root {
   --ifm-color-primary: #2a62ff;
   --ifm-color-primary-dark: #2a62ff;
@@ -17,9 +20,57 @@
   --ifm-code-font-size: 95%;
 }
 
+body{
+  font-family: 'Inter', sans-serif;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+
+.navbar{
+  padding-top: 16px;
+  padding-bottom: 16px;
+  height: auto;
+}
+
+.navbar__link{
+  padding: 4px 8px;
+  display: block;
+  margin-right: 10px;
+  height: auto;
+  border-radius: 8px;
+  letter-spacing: -.25px;
+  font-weight: 600;
+}
+
+.navbar__link:hover{
+  background-color: #eee;
+}
+
+.homepage-img{
+  width: 100px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+.hero{
+  /* border-bottom: 1px solid #ddd; */
+}
+
+.main-container{
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+footer{
+  background: #333;
+}
+
+.navbar-sidebar__brand .navbar__brand{
+  height: auto;
 }

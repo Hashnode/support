@@ -10,13 +10,13 @@ module.exports = {
   projectName: 'hashnode-guide', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Hashnode',
+      // title: 'Hashnode',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Hashnode Support Logo',
+        src: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611856421169/zcx6qvf_J.png?auto=compress',
+        srcDark: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611856682886/N1xqQtDit.png?auto=compress'
       },
       items: [
-      
         {
           href: 'https://hashnode.com',
           label: 'Back to Hashnode',
@@ -37,7 +37,6 @@ module.exports = {
       //... other Algolia params
     },
     footer: {
-      style: 'dark',
       links: [
         
         {
