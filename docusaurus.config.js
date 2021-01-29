@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611242173172/AOX1gE2jc.png',
   organizationName: 'hashnode', // Usually your GitHub org/user name.
   projectName: 'hashnode-guide', // Usually your repo name.
   themeConfig: {
