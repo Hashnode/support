@@ -58,4 +58,4 @@ If you find Hashnode Support helpful, you can share it with your peers, colleagu
 
 ## What if I need help?
 
-Contact us at [Twitter](https://twitter.com/hashnode) or [Discord](https://discord.gg/qsAQfxX) without any hesitation. We already appreciate that you’re trying to help us, so feel free to ask any doubt you have or whatever is keeping you stuck.
+If you need have any questions or require clarifications, please reach out to us on [Discord](https://discord.gg/qsAQfxX) without any hesitation. We already appreciate that you’re trying to help us, so feel free to ask any doubt you have or whatever is keeping you stuck.
