@@ -28,15 +28,27 @@ Please make sure that you provide all the necessary information requested by pro
 
 There is always a scope of improvement in guides to add some missing information or to make it easier for reading. And here lies an opportunity for you, since you can edit the guides you want which is stored as markdown files in docs directory of [Hashnode Guide Repository](https://github.com/Hashnode/hashnode-guide).
 
-After editing the file locally, build the docs as described in these [instructions](https://github.com/Hashnode/hashnode-guide#build) and then you can submit your changes to us by making a patch as described in the next section.
+After editing the file locally, build the docs as described in these [instructions](https://github.com/Hashnode/hashnode-guide#build) and then you can submit your changes to us by creating a PR as described in the next section.
 
-## Making a Patch
+### Editing Existing Pages
+
+To edit an existing page, locate its .md source file and open it in your favorite text editor. After making the necessary changes, commit the changes, push them to your fork and make a pull request.
+
+### Adding New Pages
+
+To add a new page, create a .md file with a meaningful name in the docs directory. Write its content like you would do for any other markdown file, and make sure to define an id and title for your page in the starting.
+
+You should then add your page to the relevant section by adding the id of the document to the [sidebars.js](https://github.com/Hashnode/hashnode-guide/blob/main/sidebars.js) file. You can create more sections (if required) using the `sidebars.js` file itself. 
+
+## Creating a PR
 
 If you have peeked in our codebase and realized how you can fix a problem or if you know how to add a new feature, well done! If not, don’t worry - just pick an easy or good-first issue and get started to fix it.
 
 - To contribute your code to Hashnode Support, you’ll need to make a pull request from your fork of Hashnode Guide repository. This development workflow using Git may look daunting at first, but it is not if you follow this guide that we have prepared for you.
 
 - When you make a pull request, please provide all the necessary information requested by prompts in the pull request body. Also, make sure that the code you’re submitting is well documented and tested. 
+
+
 
 ## Spreading the word of mouth
 
