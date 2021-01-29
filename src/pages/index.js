@@ -96,18 +96,15 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Welcome to Hashnode Support">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      >
+      <header className={clsx('hero', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
+          <img className="homepage-img" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611857291933/3DcebSdEJ.png?auto=compress"/>
+          <h1 className="hero__title">How can we help?</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            {/* <SearchBar/> */}
-          </div>
         </div>
       </header>
-      <main>
+      <main className="main-container">
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
