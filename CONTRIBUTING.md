@@ -1,0 +1,49 @@
+# Contribution Guidelines
+
+So you are wondering how can you contribute to Hashnode Support? Congrats, you’ve landed on the right page!
+
+## How can I contribute? 
+
+There are multiple ways in which you can help us:
+
+- Found a bug in the Support Site? Report it to us!
+
+- Caught a typo in documentation or want to make it better to understand? Edit it!
+
+- Know how to fix an issue or add a new feature? Make a patch!
+
+- Loved the Hashnode guides? Share it with others!
+
+Anything we missed to mention? Then, what are you waiting for!
+
+## Reporting a Bug
+
+Hashnode Support is in active development. There’s no surprise that you may encounter something that doesn’t work for your use case. Or maybe you have some suggestions about how can we improve some functionality. Feel free to share any of it with us by [opening an issue here](https://github.com/Hashnode/hashnode-guide/issues).
+
+> Note: Make sure you are raising requests against [Hashnode Support](https://help.hashnode.com/), not [Hashnode](https://hashnode.com/) itself. For raising requests against [Hashnode](https://hashnode.com/) use the [feature request page](https://hashnode.com/feature-requests). 
+
+Please make sure that you provide all the necessary information requested by prompts in the issue body - it will not only make our work easier but will also help you to communicate your problem better.
+
+## Editing the Suppport Guides
+
+There is always a scope of improvement in guides to add some missing information or to make it easier for reading. And here lies an opportunity for you, since you can edit the guides you want which is stored as markdown files in docs directory of [Hashnode Guide Repository](https://github.com/Hashnode/hashnode-guide).
+
+After editing the file locally, build the docs as described in these [instructions](https://github.com/Hashnode/hashnode-guide#build) and then you can submit your changes to us by making a patch as described in the next section.
+
+## Making a Patch
+
+If you have peeked in our codebase and realized how you can fix a problem or if you know how to add a new feature, well done! If not, don’t worry - just pick an easy or good-first issue and get started to fix it.
+
+- To contribute your code to Hashnode Support, you’ll need to make a pull request from your fork of Hashnode Guide repository. This development workflow using Git may look daunting at first, but it is not if you follow this guide that we have prepared for you.
+
+- When you make a pull request, please provide all the necessary information requested by prompts in the pull request body. Also, make sure that the code you’re submitting is well documented and tested. 
+
+## Spreading the word of mouth
+
+If you find Hashnode Support helpful, you can share it with your peers, colleagues, and anyone who can benefit from Hashnode. 
+
+---
+
+## What if I need help?
+
+Contact us at [Twitter](https://twitter.com/hashnode) or [Discord](https://discord.gg/qsAQfxX) without any hesitation. We already appreciate that you’re trying to help us, so feel free to ask any doubt you have or whatever is keeping you stuck.
