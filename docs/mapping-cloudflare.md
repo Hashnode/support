@@ -1,6 +1,6 @@
 ---
 id: mapping-cloudfare
-title: Mapping Domain From Cloudfare
+title: Mapping Domain From Cloudflare
 ---
 
 Cloudflare is a free CDN that protects against threats such as SQL injection and identity theft. It improves site performance and speeds up loading times by using multiple data centers that are located around the world.
