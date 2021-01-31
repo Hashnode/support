@@ -1,6 +1,6 @@
-# Website
+# Hashnode Support 
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Hashnode Support is one stop solution for all your doubts and questions about Hashnode. Each guide helps you understand Hashnode a little better. Feel free to [dive in](https://help.hashnode.com/) and clear all your doubts. 
 
 ## Installation
 
@@ -24,10 +24,16 @@ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-## Deployment
+## Contributions 
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
+We love your input! We want to make contributing to this support site as easy and transparent as possible, whether it's:
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
+- Adding more guides. 
+
+Refer to [Contributing Guidelines](https://github.com/Hashnode/hashnode-guide/blob/main/CONTRIBUTING.md) for getting started with your contributions. 
+
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
