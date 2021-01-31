@@ -4,7 +4,7 @@ title: Using Hashnode
 slug : /
 ---
 
-Hashnode is a free content-creation platform and community that enables developers to create a full-fledged and optimized blog on their domain for free.
+Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer community.
 
 With Hashnode, you can create a [personal blog](create-personal-blog) or [team blog](create-team-blog) on your domain for free without sacrificing visibility, reach, and total independence of your content and canonical.
 
