@@ -53,8 +53,6 @@ Hashnode supports the following embeds:
 - Runkit.
 - CodeSanbox.
 
-
-
 ## How can I add a table in a blog post?
 
 Use the markdown format below to add a table in your blog post.
