@@ -1,5 +1,5 @@
 ---
-id: mapping-cloudfare
+id: mapping-cloudflare
 title: Mapping Domain From Cloudflare
 ---
 
