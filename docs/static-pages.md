@@ -3,7 +3,7 @@ id: static-pages
 title: Static Pages
 ---
 
-The static pages feature allows you to create extra pages and routes (e.g., **/about**) for your blog.
+With our Static Pages feature, you can create extra pages and routes (e.g., **/about**) for your blog.
 
 Your created static pages will also appear on your blog's navigation bar, and the content of the pages is written entirely in markdown. Check out our markdown guidelines [here](markdown-guidelines.md).
 
@@ -35,11 +35,11 @@ Here is how to create, edit, and delete a static page:
 
 8. Enter the page slug, which is your preferred URL path to that page (e.g., **/about** or **/projects**) in the field provided.
 
-9. Enter the priority number of that page (from 0 to 999) in the field provided. This determines the position of the page link on the navigation bar. **Pages with higher priority numbers appear first, and others follow in descending order**.
+9. Enter the priority number of that page (from 0 to 999) in the field provided. This determines the page link's position on the navigation bar. **Pages with higher priority numbers appear first, and others follow in descending order**.
 
 10. Click on the **Create Page** button to save your changes.
 
-11. To edit, hide or delete any page, visit the **PAGES** tab and click on the **Edit Page**, **Visible** or **Delete** button, respectively.
+11. To edit, hide or delete any page, visit the **PAGES** tab and click on the **Edit Page**, **Visible**, or **Delete** button, respectively.
 
 ![Hashnode Pages](https://cdn.hashnode.com/res/hashnode/image/upload/v1601384699485/_Oce3rejD.png?auto=compress)
 

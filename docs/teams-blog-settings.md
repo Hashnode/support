@@ -2,6 +2,7 @@
 id: teams-blog-settings
 title: Team Blog Settings
 ---
+
 ## Add New Members
 
 Here is how to add new members to your team blog.

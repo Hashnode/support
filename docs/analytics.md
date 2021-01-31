@@ -4,7 +4,7 @@ title: Analytics
 ---
 
 
-Hashnode's analytics feature allows you to monitor the performance of your blog via a visual representation alongside statistics for your articles.
+Hashnode's analytics feature allows you to monitor your blog's performance via a visual representation alongside statistics for your articles.
 
 You can also have a glimpse of your blog's performance right in Hashnode's Feed at the bottom-right corner of the page.
 

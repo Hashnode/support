@@ -3,7 +3,7 @@ id: mapping-godaddy
 title: Mapping Domain from GoDaddy
 ---
 
-his section covers how to map a domain hosted or purchased on GoDaddy to Hashnode.
+This section covers how to map a domain hosted or purchased on GoDaddy to Hashnode.
 
 1. Create an account on [GoDaddy](https://www.godaddy.com/hosting). 
 
@@ -23,10 +23,10 @@ his section covers how to map a domain hosted or purchased on GoDaddy to Hashnod
 
 ![Add Button](https://cdn.hashnode.com/res/hashnode/image/upload/v1611180996708/jNpmbSdZX.png?auto=compress)
 
-6. Select `A` as the type, and add `@` or  `blog` as the host. Finally point it to `192.241.200.144`.
+6. Select `A` as the type, and add `@` or  `blog` as the host. Finally, point it to `192.241.200.144`.
 
 ![A record](https://cdn.hashnode.com/res/hashnode/image/upload/v1611179878013/XY7ZtaCrx.png?auto=compress)
 
 7. Click on **Save**.
 
-> ⚠️ Domain propagation (the process whereby nameservers update across the internet to reflect a change in a domain's DNS record) takes 0 - 48 hours to fully start working in all locations across the internet. Once your domain propagates, we will automatically provision an SSL certificate for you when you visit your blog for the first time.
+> ⚠️ Domain propagation (the process whereby nameservers update across the internet to reflect a change in a domain's DNS record) takes 0 - 48 hours to start working in all locations across the internet. Once your domain propagates, we will automatically provision an SSL certificate for you when you visit your blog for the first time.

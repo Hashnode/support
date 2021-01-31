@@ -21,7 +21,7 @@ Here is how to update the general settings of your blog:
 
 ![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
 
-4. Click on the **SEO** tab to update your **Display Title**, **Search description**, **Image for social media sharing** and **Enable Accelerated Mobile Pages (AMP)**.
+4. Click on the **SEO** tab to update your **Display Title**, **Search description**, **Image for social media sharing**, and **Enable Accelerated Mobile Pages (AMP)**.
 
 ![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1610709709545/biICZ0-WQ.png?auto=compress)
 

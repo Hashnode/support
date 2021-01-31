@@ -37,19 +37,19 @@ Here is how to create an account on Hashnode:
 
 ![Hashnode OnBoarding Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711166464/Y3-ieFtCJ.png?auto=compress)
 
-2. Select if you want your blog to be hosted on Hashnode's subdomain (**yourblogname.hashnode.com**) or your personal domain (**yourblogname.com**).
+2. Select if you want your blog to be hosted on Hashnode's subdomain (**yourblogname.hashnode.com**) or your domain (**yourblogname.com**).
 
 ![Hashnode OnBoarding Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711188586/zHcmEXV-0.png?auto=compress)
 
 > If you selected Hashnode's subdomain (**yourname.hashnode.com**), enter your preferred subdomain name and click on the **Next** button to complete the blog creation process.
 
-> If you selected your personal domain (**yourblogname.com**), read this [guide](mapping-domain) to learn how to add a custom domain to a Hashnode blog.
+> If you selected your domain (**yourblogname.com**), read this [guide](mapping-domain) to learn how to add a custom domain to a Hashnode blog.
 
 3. Your blog is now created; click on the link provided to access your blog and manage your dashboard, respectively.
 
 ![Hashnode Onboarding](https://cdn.hashnode.com/res/hashnode/image/upload/v1601047578228/1h9uTaUbQ.png?auto=compress)
 
-4. Follow some of your favorite technologies to personalize your feed and discover content you care about.
+4. Follow some of your favorite technologies to personalize your feed and discover more content.
 
 ![Hashnode Onboarding](https://cdn.hashnode.com/res/hashnode/image/upload/v1601047751343/cL1TOE6eW.png?auto=compress)
 

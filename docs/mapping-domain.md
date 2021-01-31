@@ -38,7 +38,7 @@ In this guide, you will learn how to accomplish this alongside some additional s
 Here is how to setup custom domain for your Hashnode blog using the most popular DNS providers:
 
 - [NameCheap guide](mapping-namecheap)
-- [Cloudflare guide](mapping-cloudfare)
+- [Cloudflare guide](mapping-cloudflare)
 - [GoDaddy guide](mapping-godaddyx)
 
 ---
@@ -52,7 +52,7 @@ Still not sure if your DNS provider supports CNAME flattering or when to use CNA
 | DNS Provider                   | Supports CNAME Flattering | Use CNAME Record (Root) | Use A Record (Root) |
 |--------------------------------|---------------------------|-------------------------|---------------------|
 | Namecheap                      | No                        | -                       | ✅                  |
-| Cloudfare                      | Yes                       | ✅                      | -                   |
+| Cloudflare                      | Yes                       | ✅                      | -                   |
 | GoDaddy                        | No                        | -                       | ✅                  |
 | OpenDNS                        | No                        | -                       | ✅                  |
 | Oracle Dyn Managed DNS         | No                        | -                       | ✅                  |

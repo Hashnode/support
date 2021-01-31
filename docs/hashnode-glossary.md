@@ -7,32 +7,32 @@ title: Hashnode Glossary
 
 This allows you to express how you feel about an article alongside appreciating the author. You will find the reaction buttons at the top-right corner of an article.
 
-- **👍 Thumbs up:** Here's my like.
-- **❤️ Love:** Love it.
-- **🦄 Unicorn:** You're a unicorn.
-- **👏🏾 Clap:** Claps claps.
-- **🍺 Beer:** Cheers.
-- **🏆 Award:** You deserve a trophy!
-- **😍 Love eyes:** I am loving it!
-- **💰 Money:** Take my money.
-- **🎉 Tada:** It's party time.
-- **🚀 Rocket:** Fly high.
+- **❤️** Love it.
+- **👍** Here's my like.
+- **🍺** Cheers.
+- **🏆** You deserve a trophy!
+- **🎉** It's party time.
+- **🦄** You're a unicorn.
+- **👏🏾** Claps claps.
+- **😍** I am loving it!
+- **💰** Take my money.
+- **🚀** Fly high.
 
 ## Feeds
 
-This is the homepage of Hashnode once you are logged in which displays articles from different authors and tags you follow. You can customize your feed content by following your desired [blogs](https://hashnode.com/explore)  and [tags](https://hashnode.com/tags).
+Here, you'll see different articles published by developers across the world. You can customize your feed content by following your desired [blogs](https://hashnode.com/explore) and [tags](https://hashnode.com/tags).
 
 ## View Changer
 
-This allows you to switch between Modern, Classic, and Compact views. Based on what you choose, the postcard design layout changes in Hashnode Feeds.
+This allows you to switch between **Modern**, **Classic**, and **Compact** views. Based on what you choose, the postcard design layout changes in Hashnode Feeds.
 
 ## Feed Sorter
 
 This helps you filter content on your feed based on the kind of content you want to read. We currently have three feeds sort options:
 
 - **Best:** This is the default and uses Hashnode's personalization algorithm to display articles from different authors and tags you follow.
-- **New:** This displays articles that have been published recently.
-- **Top:** This shows the recent, best, and most appreciated articles on Hashnode.
+- **Featured:** This shows general programming articles that have gained traction from the developer community. 
+- **Recent:** This shows articles published recently.
 
 ## Dashboard
 
@@ -40,7 +40,7 @@ This is the control engine on your blog where you can manage and modify your blo
 
 ## RFAs (Request for Article)
 
-RFA is a repository of crowdsourced topics developers want to read next. This helps writers come up with article ideas quickly alongside helping readers get content they want to read.
+RFA is a repository of crowdsourced topics developers want to read next. This helps writers come up with article ideas quickly alongside and give readers read contents they can't find elsewhere.
 
 ## Article
 
@@ -56,7 +56,7 @@ These are unique keywords attached to posts to categorize related articles under
 
 ## Series
 
-This is a group of related articles categorized in one page and linked together even though published differently for easy access by readers.
+This is a group of related articles categorized in one page and linked together even though published differently.
 
 ## Personal Blog
 
@@ -80,7 +80,7 @@ This is the email sent by any blog you subscribe to every time a new article is 
 
 ## She Inspires
 
-This is a text-based interview series all about talking to awesome women in tech, understanding the current health of the tech industry, and inspiring other women to become better.
+This is a text-based interview series all about talking to awesome women in tech, understanding the tech industry's current health, and inspiring other women to become better.
 
 ## AMA (Ask Me Anything)
 
@@ -88,4 +88,4 @@ This is a text-based or video-based Ask Me Anything session where Hashnode users
 
 ## Writing Challenges
 
-These are Hashnode writing challenges that encourage writers to become better and consistent at writing with prizes up for grabs.
+These are Hashnode writing challenges that encourage writers to become better, consistent, and win exciting prizes.

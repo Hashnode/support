@@ -3,7 +3,6 @@ id: export-articles
 title: Export Articles
 ---
 
-
 Here is how to download all your articles in JSON format:
 
 1. Log in to your Hashnode account.
