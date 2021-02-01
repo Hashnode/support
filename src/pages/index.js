@@ -86,7 +86,7 @@ function Feature({ title, description}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
       <h3>{title}</h3>
-      <p>{description}</p>
+      <p style={{listStyleType:'none'}}>{description}</p>
     </div>
   );
 }
