@@ -5,7 +5,7 @@ title: Create Team Blog
 
 The Team Blog feature is currently **in beta** (ongoing testing/improvements), and is not available publicly to all Hashnode users, and will become a **paid feature** soon.
 
-However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please [fill this form](mailto:hello@hashnode.com) to request to join the beta access list.
+However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please [fill this form](https://forms.gle/VcquJ7d9Nagj6LeY8) to request to join the beta access list.
 
 Remember, your _Team Blog_ is still a "blog"; all the features and settings of a _Personal Blog_ still apply. Hence, you can customize your _Team Blog_ as you deem fit using the guides provided [here](account-settings).
 
