@@ -26,7 +26,7 @@ Here is how to set up a newsletter on your blog:
 
 ![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
 
-4. Click on the **NEWSLETTER** tab to enable or disable the newsletter service for your blog.
+4. Click on the **NEWSLETTER** tab to enable or disable your blog's newsletter service.
 
 ![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611050839343/0LgSDlnPj.png?auto=compress)
 
@@ -34,7 +34,7 @@ Here is how to set up a newsletter on your blog:
 
 ![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611050871902/qVUKsQEx3.png?auto=compress)
 
-6. You will now see a popup prompt, click **OK** to confirm your desired change.
+6. You will now see a popup prompt. Click **OK** to confirm your desired change.
 
 ![Hashnode's Newsletter](https://cdn.hashnode.com/res/hashnode/image/upload/v1611051270679/EjYwmeda5.png?auto=compress)
 

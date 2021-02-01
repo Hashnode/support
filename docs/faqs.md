@@ -53,8 +53,6 @@ Hashnode supports the following embeds:
 - Runkit.
 - CodeSanbox.
 
-
-
 ## How can I add a table in a blog post?
 
 Use the markdown format below to add a table in your blog post.
@@ -71,7 +69,7 @@ Use the markdown format below to add a table in your blog post.
 
 A canonical tag is a unique HTML element with a unique URL that helps search engines prevent duplicate content issues in SEO (Search Engine Optimization) by specifying the **canonical** or **most preferred** or **original source** version of a web page.
 
-When you create a blog with Hashnode and map a custom domain, you already have total independence over your blog and canonical. What you need to do is to update the canonical URL of your posts on other platforms you have published on in the past.
+When you create a blog with Hashnode and map a custom domain, you already have total independence over your blog and canonical. You need to update the canonical URL of your posts on other platforms you have published on in the past.
 
 ## Why is tagging a post important?
 
@@ -93,10 +91,15 @@ This is our [Privacy policy](https://hashnode.com/privacy) and [Terms of service
 
 We ban accounts when the author's articles or discussions have been reported multiple times by Hashnode community members. You can also be banned if you don't follow our community code of conduct. To request for a review, send an email to [hello@hashnode.com](mailto:hello@hashnode.com?subject=My%20account%20is%20banned).
 
-## I completed a challenge but the badge isn't reflecting on my blog. Why?
+## I completed a challenge, but the badge isn't reflecting on my blog. Why?
 
-Our badges cron job runs once per day. So, your badge will reflect in 24 hours. If it doesn't reflect after 24 hours, [contact us](mailto:hello@hashnode.com).
+Our badge cron job runs once per day. So, your badge will reflect in 24 hours. If it doesn't reflect after 24 hours, [contact us](mailto:hello@hashnode.com).
 
 ## How can I become a tag moderator on Hashnode?
 
-To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/tags) you want to moderate, and fill up [this form](https://forms.gle/WxMGRQ9thEgYSuM29). We will review and assign the role to you.
+To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/tags) you want to moderate, and fill up [this form](https://forms.gle/WxMGRQ9thEgYSuM29). We will review and assign the role to you.
+
+
+## What criteria does Hashnode use to select **Featured** articles?
+
+We feature articles that get more traction in a shorter period. We mostly pick articles targeted towards a wider developer audience (i.e., general programming in nature).

@@ -23,7 +23,7 @@ Here is how to update your profile page on Hashnode:
 
 ## Basic Info
 
-In the Basic Info section, you can change your Full name, Profile Tagline, Profile Photo, Cover Image, and Location.
+You can change your Full name, Profile Tagline, Profile Photo, Cover Image, and Location in the Basic Info section.
 
 ## About You
 
@@ -31,11 +31,11 @@ In the About You section, you can update or add what you are available for, more
 
 ## Social
 
-In the social section, you can add or update your Twitter, GitHub, StackOverflow, Facebook, and Website URL.
+You can add or update your Twitter, GitHub, StackOverflow, Facebook, and Website URL in the social section.
 
 ## Profile Identity
 
-In the profile Identity section, you can update your Hashnode username, email address, and display your email address on your Hashnode profile.
+In the profile Identity section, you can update your Hashnode username, email address and display your email address on your Hashnode profile.
 
 ## Change Username
 
@@ -87,7 +87,7 @@ Here is how to activate push notifications:
 
 ![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
 
-2. Click on **PUSH NOTIFICATIONS** tab.
+2. Click on the **PUSH NOTIFICATIONS** tab.
 
 ![Hashnode Push Notifications](https://cdn.hashnode.com/res/hashnode/image/upload/v1600772916024/bmaeu8xrw.png?auto=compress)
 
@@ -148,12 +148,12 @@ Here is how to generate your Hashnode Developer Access Token:
 
 ⚠️ Before deleting your account, please note that:
 
-- Upon successful deletion, your personal data (profile information and published articles) will be deleted permanently
+- Upon successful deletion, your data (profile information and published articles) will be deleted permanently.
 - Your posts, comments, and replies published on Hashnode (not Personal blog) will **not** be deleted (you can delete these manually).
 - Deleting your account deletes both your Hashnode account and all _Personal Blogs_ and _Team Blogs_ associated with your account.
 - This action is **irreversible**.
 
-If you need help with your account and do not want to delete, kindly [Contact us](https://discord.gg/qsAQfxX).
+If you need help with your account and do not want to delete it, kindly [Contact us](https://discord.gg/qsAQfxX).
 
 ---
 
@@ -187,9 +187,9 @@ Here is how to delete your Hashnode account:
 
 8. Enter the optional feedback (why you are deactivating your account), your email address, and type **delete my account** in the form to verify this action.
 
-9. Click on the **I am sure, delete my account** button to authorize this action.
+9. Click on **I am sure, delete my account** to authorize this action.
 
 ![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1600776090071/3Smo02MbO.png?auto=compress)
 
-10. If the content of the form is verified, your account will be deleted successfully, else you will be prompted to validate your input.
+10. If the form's content is verified, your account will be deleted successfully. Else you will be prompted to validate your input.
 

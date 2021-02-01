@@ -22,7 +22,7 @@ Here is how to submit a feature request or report a bug on Hashnode.
 
 ![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712473168/x3GdDXFS6.png?auto=compress)
 
-4. Select the type of request you want to make. Use the radio button options to select if you want to submit a **Feature Request** or make a **Bug Report**.
+4. Use the radio button options to select if you want to submit a **Feature Request** or make a **Bug Report**.
 
 ![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712378143/RI_ZsHoiK.png?auto=compress)
 

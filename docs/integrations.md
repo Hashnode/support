@@ -57,7 +57,7 @@ Here is how to add a third-party integration to your blog:
 ## Plausible Analytics
 
 1. Create a Plausible account.
-2. Once you have an account, you can enter the domain name of your Hashnode blog. Please, remove `https` and `www` from the URL and add only the the hostname `yourdomain.com`.
+2. Once you have an account, you can enter the domain name of your Hashnode blog. Please, remove `https` and `www` from the URL and add only the hostname `yourdomain.com`.
 3. Go to your blog's dashboard on Hashnode.
 4. Navigate to the Plausible Analytics section in the **INTEGRATIONS** tab. 
 5. Click on the toggle button to enable **Plausible Analytics** on your blog.

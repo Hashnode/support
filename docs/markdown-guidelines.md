@@ -57,12 +57,12 @@ Hashnode uses Embed.ly to support all kinds of embed on the platform. You DON'T 
 Use the Grave accent keys **`** for the inline code snippets. In QWERTY keypads, this key can be written using Ctrl + 1.
 
 ```
-This is a normal sentence with `console.log("yeah!")` in it.
+This is a standard sentence with `console.log("yeah!")` in it.
 ```
 
 The above will output the following:
 
-This is a normal sentence with `console.log("yeah!")` in it.
+This is a standard sentence with `console.log("yeah!")` in it.
 
 ### Block code
 

@@ -13,7 +13,7 @@ Need help? Kindly reach out via the mediums below; our support team is here to a
 
 **[hello@hashnode.com](mailto:hello@hashnode.com)**
 
-## DM on Twitter
+## Send us a DM on Twitter
 
 **[@hashnode](https://twitter.com/@hashnode)**
 

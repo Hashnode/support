@@ -3,7 +3,6 @@ id: write-an-article
 title: Write an Article
 ---
 
-
 Here is how to write a post on Hashnode:
 
 1. Log in to your Hashnode account.
@@ -20,7 +19,7 @@ Here is how to write a post on Hashnode:
 
 ![Hashnode's Editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1600784012832/2B1BgGqIj.png?auto=compress)
 
-4. Enter the title of your article in the **Title** field, and the content of your article in the **Tell your story...** field.
+4. Enter the title of your article in the **Title** field and your article's content in the **Tell your story...** field.
 
 ![Hashnode's Editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1600784255477/md2vZuvDc.png?auto=compress)
 
@@ -28,23 +27,25 @@ Here is how to write a post on Hashnode:
 
 ![Select Tags on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600784510917/kRywX9-Cx.png?auto=compress)
 
-6. Click on the **Upload an image** button to upload a cover photo for your article (with recommended dimensions of 1200px width and 630px height) in the **Article Cover** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
+6. Click on the **Upload an image** button to upload a cover photo for your article (with recommended dimensions of 1200px width and 630px height) in the **Article Cover** section.
 
 ![Upload Cover Photo on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600784833025/IUjlWOXdw.png?auto=compress)
 
-7. If you want a different image to appear when you share your article on social media platforms (e.g., Twitter and Facebook), click on the **Upload an image** button to upload a custom OG image for your article (with recommended dimensions of 1200px width and 630px height) in the **Custom OG Image** section at the top-right sidebar of the editor on your *desktop* or bottom-corner of the editor on your *mobile* screen.
+7. If you want a different image to appear when you share your article on social media platforms (e.g., Twitter and Facebook), click on the **Upload an image** button to upload a custom OG image for your article.
+
+We recommended using a dimension of 1200px width and 630px height in the **Custom OG Image** section. 
 
 ![Upload Custom OG image on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600785119278/PZCb_boPH.png?auto=compress)
 
-8. If you want to backdate the published date of your article, click on the **Select a date** button to select your desired publish date in the **Publish on a backdate** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
+8. If you want to backdate the published date of your article, click on the **Select a date** button to select your desired publish date in the **Publish on a backdate** section.
 
 ![Backdate a post on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600785467054/H9FNUQ8EH.png?auto=compress)
 
-9. Are you republishing an article (we strongly don't recommend you do this)? Click on the **Add Original Article** button to change the canonical URL of the article to the original article in the **Are you republishing?** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
+9. Are you republishing an article? Click on the **Add Original Article** button to change the canonical URL of the article to the original article in the **Are you republishing?** section.
 
 ![Add Canonical URL on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600786428143/BEsFpFbX7.png?auto=compress)
 
-10. Once you publish your article on your blog, we display the article on Hashnode feeds for more readership. If you want to hide the article from the Hashnode Community, click on the **Yes, hide from Hashnode and display on my blog only** checkbox in the **Hide from Hashnode Community** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
+10. Once you publish your article on your blog, we display the article on Hashnode feeds for more readership. If you want to hide the article from the Hashnode Community, click on the **Yes, hide from Hashnode and display on my blog only** checkbox in the **Hide from Hashnode Community** section.
 
 ![Hide article from the Hashnode Community](https://cdn.hashnode.com/res/hashnode/image/upload/v1600787231182/u2EktEPS2.png?auto=compress)
 
@@ -52,7 +53,6 @@ Here is how to write a post on Hashnode:
 
 ![Edit Post Slug on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600787669538/aDDzRuWGY.png?auto=compress)
 
-12. If you don't want to publish your article on your blog but on Hashnode (www.hashnode.com), uncheck the **Publish this article on my blog** checkbox in the **Select your blog** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
+12. If you don't want to publish your article on your blog but on Hashnode (www.hashnode.com), uncheck the **Publish this article on my blog** checkbox in the **Select your blog** section.
 
 ![Post on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1600787727844/d48xj3Mk6.png?auto=compress)
-

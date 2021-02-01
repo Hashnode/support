@@ -3,10 +3,9 @@ id: edit-url-type
 title: Edit Articles URL Type
 ---
 
+Suppose you created your Hashnode blog before mid-August 2020. In that case, it means your articles use the **Legacy URL pattern**, where a Collision Resistant Unique Identifier (CUID) is attached to the end of the URL of all your articles on your blog.
 
-If you created your Hashnode blog before mid-August 2020, it means your articles use the **Legacy URL pattern**, where a Collision Resistant Unique Identifier (CUID) is attached to the end of the URL of all your articles on your blog.
-
-Using the **Legacy URL pattern** is fine, but you can make your article URLs more user friendly using the newly supported **Simple URL pattern** on Hashnode. The CUID will no longer be attached to the URLs of your articles, which makes the article URLs look clean.
+Using the **Legacy URL pattern** is fine, but you can make your article URLs more user friendly using the newly supported **Simple URL pattern** on Hashnode. The CUID will no longer be attached to your articles' URLs, which makes the article URLs look clean.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1598516575597/zPwPjkdKL.png?auto=format&q=60)
 
@@ -16,8 +15,8 @@ Using the **Legacy URL pattern** is fine, but you can make your article URLs mor
 
 ⚠️ Please note that:
 
-- Once you change to the Simple URL pattern, you **CANNOT** revert it back to the Legacy URL pattern.
-- Links indexed on Google and other search engines will work fine and will redirect to your new URL. With the 301 redirects, search engines will update their indexes with the new URLs in some days.
+- Once you change to the Simple URL pattern, you **CANNOT** revert it to the Legacy URL pattern.
+- Links indexed on Google and other search engines will work fine and redirect to your new URL. With the 301 redirects, search engines will update their indexes with the new URLs in some days.
 - Links shared on Twitter and other social media will be redirected to your new URLs.
 - Your AMP pages indexed by Google, Social media platform, and others will also be redirected to your new AMP URLs.
 
@@ -38,4 +37,3 @@ Here is how to change your previously published articles from the Legacy pattern
 ![Hashnode's Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1598518192974/qTUfocyPY.png?auto=format&q=60)
 
 4. Click on the **Update** button to save the changes.
-

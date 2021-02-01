@@ -20,4 +20,3 @@ Here is how to update the general settings of your blog:
 ![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1610542209016/7J88yLfgj.png?auto=compress)
 
 5. Click on the **Update Changes** button to save your changes.
-

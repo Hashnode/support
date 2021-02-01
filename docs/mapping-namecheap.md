@@ -15,7 +15,7 @@ This section covers how to map a domain hosted or purchased on Namecheap to Hash
 
 ![Namecheap Product Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1611181430365/vsu-_m3ku.png?auto=compress)
 
-4. Click on the **Manage** buttton next to your domain to access the DNS management page.
+4. Click on the **Manage** button next to your domain to access the DNS management page.
 
 ![Namecheap Manage Icon](https://cdn.hashnode.com/res/hashnode/image/upload/v1611181459100/19wTUvj2f.png?auto=compress)
 
@@ -23,7 +23,7 @@ This section covers how to map a domain hosted or purchased on Namecheap to Hash
 
 6. Click on the **Add New Record** button in the **Host Records** section. 
 
-7. Select **CNAME Record** from the drop-down menu. Enter `@` under host, `hashnode.network` and a **TTL** of 30 minutes.
+7. Select **CNAME Record** from the drop-down menu. Enter `@` under host, `hashnode.network`, and a **TTL** of 30 minutes.
 
 
-> Domain propagation (the process whereby nameservers update across the internet to reflect a change in a domain's DNS record) takes 0 - 48 hours to fully start working in all locations across the internet. Once your domain propagates, we will automatically provision an SSL certificate for you when you visit your blog for the first time.
+> Domain propagation (the process whereby nameservers update across the internet to reflect a change in a domain's DNS record) takes 0 - 48 hours to start working in all locations across the internet. Once your domain propagates, we will automatically provision an SSL certificate for you when you visit your blog for the first time.

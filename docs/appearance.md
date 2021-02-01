@@ -2,9 +2,10 @@
 id: appearance
 title: Appearance
 ---
-You can customize the look, feel, and layout of your blog by adding colors and images to change your blog's appearance.
 
-We are also working to introduce custom themes and CSS support to help you speed up customizing your blog with various options.
+You can customize your blog's look, feel, and layout by adding colors and images to change your blog's appearance.
+
+We are also working to introduce custom themes and CSS support to help you customize your blog with various options.
 
 ---
 
