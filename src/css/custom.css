@@ -75,3 +75,7 @@ footer{
 .navbar-sidebar__brand .navbar__brand{
   height: auto;
 }
+
+.navbar-sidebar{
+  box-shadow: none;
+}
