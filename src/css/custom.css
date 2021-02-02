@@ -79,3 +79,9 @@ footer{
 .navbar-sidebar{
   box-shadow: none;
 }
+
+@media (max-width: 425px){
+  .navbar__items{
+    margin-bottom: 10px;
+  }
+}
