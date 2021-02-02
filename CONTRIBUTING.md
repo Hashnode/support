@@ -18,17 +18,17 @@ Anything we missed to mention? Then, what are you waiting for!
 
 ## Reporting a Bug
 
-Hashnode Support is in active development. So if you have suggestions about how can we improve some functionality. Feel free to share any of it with us by [opening an issue here](https://github.com/Hashnode/hashnode-guide/issues).
+Hashnode Support is in active development. So if you have suggestions about how can we improve some functionality. Feel free to share any of it with us by [opening an issue here](https://github.com/Hashnode/support/issues).
 
-> Note: Make sure you are raising requests against [Hashnode Support](https://help.hashnode.com/), not [Hashnode](https://hashnode.com/) itself. For raising requests against [Hashnode](https://hashnode.com/) use the [feature request page](https://hashnode.com/feature-requests). 
+> Note: Make sure you are raising requests against [Hashnode Support](https://support.hashnode.com/), not [Hashnode](https://hashnode.com/) itself. For raising requests against [Hashnode](https://hashnode.com/) use the [feature request page](https://hashnode.com/feature-requests). 
 
 Please make sure that you provide all the necessary information in the issue body - it will not only make our work easier but will also help you to communicate your problem better.
 
 ## Editing the Suppport Guides
 
-There is always a scope of improvement in guides to add some missing information or to make it easier for reading. And here lies an opportunity for you, since you can edit the guides you want which is stored as markdown files in docs directory of [Hashnode Guide Repository](https://github.com/Hashnode/hashnode-guide).
+There is always a scope of improvement in guides to add some missing information or to make it easier for reading. And here lies an opportunity for you, since you can edit the guides you want which is stored as markdown files in docs directory of [Hashnode Guide Repository](https://github.com/Hashnode/support).
 
-After editing the file locally, build the docs as described in these [instructions](https://github.com/Hashnode/hashnode-guide#build) and then you can submit your changes to us by creating a PR as described in the next section.
+After editing the file locally, build the docs as described in these [instructions](https://github.com/Hashnode/support#build) and then you can submit your changes to us by creating a PR as described in the next section.
 
 ### Editing Existing Pages
 
@@ -38,7 +38,7 @@ To edit an existing page, locate its .md source file and open it in your favorit
 
 To add a new page, create a .md file with a meaningful name in the docs directory. Write its content like you would do for any other markdown file, and make sure to define an id and title for your page in the starting.
 
-You should then add your page to the relevant section by adding the id of the document to the [sidebars.js](https://github.com/Hashnode/hashnode-guide/blob/main/sidebars.js) file. You can create more sections (if required) using the `sidebars.js` file itself. 
+You should then add your page to the relevant section by adding the id of the document to the [sidebars.js](https://github.com/Hashnode/support/blob/main/sidebars.js) file. You can create more sections (if required) using the `sidebars.js` file itself. 
 
 ## Creating a PR
 
