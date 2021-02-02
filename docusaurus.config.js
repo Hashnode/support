@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Hashnode Support',
-  tagline: 'Your go-to guide for understanding Hashnode a little better',
+  tagline: 'Your go-to guides for understanding Hashnode a little better',
   url: 'https://support.hashnode.com/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
