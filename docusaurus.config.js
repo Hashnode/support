@@ -40,7 +40,7 @@ module.exports = {
       links: [
         
         {
-          title: 'Contact us',
+          title: 'Talk to the team',
           items: [
             {
               label: 'Email Us',
@@ -51,7 +51,7 @@ module.exports = {
               href: 'https://twitter.com/hashnode',
             },
             {
-              label: 'Live Chat: Join our Discord Server',
+              label: 'Discord',
               href: 'https://discord.gg/qsAQfxX',
             },
           ],

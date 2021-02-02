@@ -23,7 +23,7 @@ function FooterLink({
   const normalizedHref = useBaseUrl(href, {
     forcePrependBaseUrl: true
   });
-  return <Link className="footer__link-item" {...href ? {
+  return <Link className={styles.footer__linkItem} {...href ? {
     target: '_blank',
     rel: 'noopener noreferrer',
     href: prependBaseUrlToHref ? normalizedHref : href
@@ -59,16 +59,16 @@ function Footer() {
       <div className="container">
         {links && links.length > 0 && <div className="row footer__links">
             {links.map((linkItem, i) => <div key={i} className="col footer__col">
-                {linkItem.title != null ? <h4 className="footer__title">{linkItem.title}</h4> : null}
-                {linkItem.items != null && Array.isArray(linkItem.items) && linkItem.items.length > 0 ? <ul className="footer__items">
+                {linkItem.title != null ? <h4 className={styles.footer__title}>{linkItem.title}</h4> : null}
+                {linkItem.items != null && Array.isArray(linkItem.items) && linkItem.items.length > 0 ? <div className={styles.footer__items}>
                     {linkItem.items.map((item, key) => item.html ? <li key={key} className="footer__item" // Developer provided the HTML, so assume it's safe.
             // eslint-disable-next-line react/no-danger
             dangerouslySetInnerHTML={{
               __html: item.html
-            }} /> : <li key={item.href || item.to} className={styles.footerLink}>
+            }} /> : <div key={item.href || item.to} className={styles.footerLink}>
                           <FooterLink {...item} />
-                        </li>)}
-                  </ul> : null}
+                        </div>)}
+                  </div> : null}
               </div>)}
           </div>}
         {(logo || copyright) && <div className="footer__bottom text--center">

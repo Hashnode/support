@@ -14,10 +14,32 @@
   opacity: 1;
 }
 
-.footerLink{
+/* .footerLink{
   border-color: #2a62ff;
   display: inline;
   border-style: solid;
   border-radius: 0.2rem;
   border-width: 1.5px;
+} */
+
+.footer__items{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footer__title{
+  text-align: center;
+}
+
+.footer__linkItem{
+  display: block;
+  padding: 4px 2px;
+  margin: 0 5px;
+  color: #757575;
+  font-weight: bold;
+}
+
+.footer__linkItem:hover{
+  text-decoration: none;
 }
