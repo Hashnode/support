@@ -1,10 +1,10 @@
 {
     "index_name": "docs",
     "start_urls": [
-      "https://help.hashnode.com"
+      "https://support.hashnode.com/"
     ],
     "sitemap_urls": [
-      "https://help.hashnode.com/sitemap.xml"
+      "https://support.hashnode.com/sitemap.xml"
     ],
     "sitemap_alternate_links": true,
     "stop_urls": [],

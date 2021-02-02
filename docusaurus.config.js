@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Hashnode Support',
   tagline: 'Your go-to guide for understanding Hashnode a little better',
-  url: 'https://help.hashnode.com/',
+  url: 'https://support.hashnode.com/',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'https://cdn.hashnode.com/res/hashnode/image/upload/v1611242173172/AOX1gE2jc.png',
   organizationName: 'hashnode', // Usually your GitHub org/user name.
-  projectName: 'hashnode-guide', // Usually your repo name.
+  projectName: 'support', // Usually your repo name.
   themeConfig: {
     navbar: {
       // title: 'Hashnode',
@@ -72,7 +72,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Hashnode/hashnode-guide/blob/main/',
+            'https://github.com/Hashnode/support/blob/main/',
         },
     
         theme: {
