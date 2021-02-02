@@ -29,7 +29,6 @@ This command generates static content into the `build` directory and can be serv
 We love your input! We want to make contributing to this support site as easy and transparent as possible, whether it's:
 
 - Reporting a bug
-- Discussing the current state of the code
 - Submitting a fix
 - Proposing new features
 - Adding more guides. 
