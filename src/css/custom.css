@@ -75,3 +75,13 @@ footer{
 .navbar-sidebar__brand .navbar__brand{
   height: auto;
 }
+
+.navbar-sidebar{
+  box-shadow: none;
+}
+
+@media (max-width: 425px){
+  .navbar__items{
+    margin-bottom: 10px;
+  }
+}
