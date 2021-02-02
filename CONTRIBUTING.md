@@ -12,17 +12,17 @@ There are multiple ways in which you can help us:
 
 - Know how to fix an issue or add a new feature? Make a patch!
 
-- Loved the Hashnode guides? Share it with others!
+- Loved the Hashnode support? Share it with others!
 
 Anything we missed to mention? Then, what are you waiting for!
 
 ## Reporting a Bug
 
-Hashnode Support is in active development. There’s no surprise that you may encounter something that doesn’t work for your use case. Or maybe you have some suggestions about how can we improve some functionality. Feel free to share any of it with us by [opening an issue here](https://github.com/Hashnode/hashnode-guide/issues).
+Hashnode Support is in active development. So if you have suggestions about how can we improve some functionality. Feel free to share any of it with us by [opening an issue here](https://github.com/Hashnode/hashnode-guide/issues).
 
 > Note: Make sure you are raising requests against [Hashnode Support](https://help.hashnode.com/), not [Hashnode](https://hashnode.com/) itself. For raising requests against [Hashnode](https://hashnode.com/) use the [feature request page](https://hashnode.com/feature-requests). 
 
-Please make sure that you provide all the necessary information requested by prompts in the issue body - it will not only make our work easier but will also help you to communicate your problem better.
+Please make sure that you provide all the necessary information in the issue body - it will not only make our work easier but will also help you to communicate your problem better.
 
 ## Editing the Suppport Guides
 
@@ -44,11 +44,9 @@ You should then add your page to the relevant section by adding the id of the do
 
 If you have peeked in our codebase and realized how you can fix a problem or if you know how to add a new feature, well done! If not, don’t worry - just pick an easy or good-first issue and get started to fix it.
 
-- To contribute your code to Hashnode Support, you’ll need to make a pull request from your fork of Hashnode Guide repository. This development workflow using Git may look daunting at first, but it is not if you follow this guide that we have prepared for you.
+- To contribute your code to Hashnode Support, you’ll need to make a pull request from your fork of Hashnode Guide repository. This development workflow using Git may look daunting at first, but there are [multiple articles](https://hashnode.com/n/github) on Hashnode that will help you understand Git workflow better.
 
-- When you make a pull request, please provide all the necessary information requested by prompts in the pull request body. Also, make sure that the code you’re submitting is well documented and tested. 
-
-
+- When you make a pull request, please provide all the necessary information in the pull request body. Also, make sure that the code you’re submitting is well documented and tested. 
 
 ## Spreading the word of mouth
 
