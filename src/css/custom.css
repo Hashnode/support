@@ -7,7 +7,7 @@
 
 /* You can override the default Infima variables here. */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=block');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=block");
 
 :root {
   --ifm-color-primary: #2a62ff;
@@ -20,8 +20,9 @@
   --ifm-code-font-size: 95%;
 }
 
-body{
-  font-family: 'Inter', sans-serif;
+body {
+  font-family: "Inter", sans-serif;
+  transition: color 0ms ease-in !important;
 }
 
 .docusaurus-highlight-code-line {
@@ -31,53 +32,52 @@ body{
   padding: 0 var(--ifm-pre-padding);
 }
 
-
-.navbar{
+.navbar {
   padding-top: 16px;
   padding-bottom: 16px;
   height: auto;
 }
 
-.navbar__link{
+.navbar__link {
   padding: 4px 8px;
   display: block;
   margin-right: 10px;
   height: auto;
   border-radius: 8px;
-  letter-spacing: -.25px;
+  letter-spacing: -0.25px;
   font-weight: 600;
 }
 
-.navbar__link:hover{
+.navbar__link:hover {
   background-color: #eee;
 }
 
-.homepage-img{
+.homepage-img {
   width: 100px;
   height: 100px;
   display: block;
   margin: 0 auto 10px;
 }
 
-.hero{
+.hero {
   /* border-bottom: 1px solid #ddd; */
 }
 
-.main-container{
+.main-container {
   padding-top: 48px;
   padding-bottom: 48px;
 }
 
-footer{
+footer {
   background: #333;
 }
 
-.navbar-sidebar{
+.navbar-sidebar {
   box-shadow: none;
 }
 
-@media (max-width: 425px){
-  .navbar__items{
+@media (max-width: 425px) {
+  .navbar__items {
     margin-bottom: 10px;
   }
 }
