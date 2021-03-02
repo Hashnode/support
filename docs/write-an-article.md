@@ -11,9 +11,9 @@ Here is how to write a post on Hashnode:
 
 ![Write a Story](https://cdn.hashnode.com/res/hashnode/image/upload/v1614679369507/PyRBo723X.png?auto=compress)
 
-3. Alternatively, you can click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen. Then, click on the **Write New Story** option from the popup modal to open the story editor.
+3. Alternatively, you can use this blue fat button to open the story editor too. 
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614681082783/6iiT9XzxK.png?auto=compress)
+![Hashnode's Write button](https://cdn.hashnode.com/res/hashnode/image/upload/v1614690908013/bWNmLkqsp.png?auto=compress)
 
 3. You will now see Hashnode's distraction free editor.
 
