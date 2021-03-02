@@ -35,7 +35,7 @@ const features = [
     description: (
       <>
     
-        <li><a href = "docs/write-an-article">Write and Article</a></li>
+        <li><a href = "docs/write-an-article">Write an Article</a></li>
         <li><a href = "docs/markdown-guidelines">Markdown Guidelines</a></li>
         <li><a href = "docs/edit-article">Edit Published Article </a></li>
         <li><a href = "docs/edit-drafts">Edit Drafts </a></li>
