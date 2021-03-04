@@ -41,7 +41,7 @@ Here is how to add a third-party integration to your blog:
 1. Create or sign in to your Analytics account.
 2. Set up a property in your Analytics account.
 3. Copy your tracking ID (Looks like *UA-123456789-0*).
-4. Head to the **ANALYTICS** tab in your blog's dashboard.
+4. Head to the **INTEGRATIONS** tab in your blog's dashboard.
 5. Paste the tracking ID in the **Google Analytics Tracking ID** input field.
 6. Click the **Update** button to save your changes.
 
@@ -59,9 +59,9 @@ Here is how to add a third-party integration to your blog:
 1. Create a Plausible account.
 2. Once you have an account, you can enter the domain name of your Hashnode blog. Please, remove `https` and `www` from the URL and add only the hostname `yourdomain.com`.
 3. Go to your blog's dashboard on Hashnode.
-4. Navigate to the Plausible Analytics section in the **INTEGRATIONS** tab. 
+4. Navigate to the Plausible Analytics section in the **INTEGRATIONS** tab.
 5. Click on the toggle button to enable **Plausible Analytics** on your blog.
-6. Click on the **Update** button to complete the process. 
+6. Click on the **Update** button to complete the process.
 
 ## Hotjar Site ID
 
@@ -70,15 +70,15 @@ Here is how to add a third-party integration to your blog:
 3. Copy your **Site ID**.
 4. Head over to the **INTEGRATIONS** tab and add your **Site ID** to the **Hotjar Site ID** input field.
 5. Click on the **Update** button to save your changes.
-6. Go back to Hotjar's website and enter the URL of your Hashnode blog. 
+6. Go back to Hotjar's website and enter the URL of your Hashnode blog.
 7. Click on the **Verity Installation** button to complete the process.
 
 ## Matomo Analytics
 
 1. Create a Matomo Analytics account.
-2. Copy your **Matomo Site ID** and **Matomo URL**. 
-3. Go to your Hashnode blog dashboard. 
-4. Click on the **INTEGRATIONS** tab and navigate to the **Matomo Analytics** section. 
+2. Copy your **Matomo Site ID** and **Matomo URL**.
+3. Go to your Hashnode blog dashboard.
+4. Click on the **INTEGRATIONS** tab and navigate to the **Matomo Analytics** section.
 5. Add your Matomo Site ID and URL into the input fields.
 6. Click on the **Update** button to save your changes.
 
@@ -87,9 +87,9 @@ Here is how to add a third-party integration to your blog:
 1. Create a Fathom account.
 2. Add a new site in your settings.
 3. Copy your Site ID (Looks like *HUVBAGGT*).
-5. Head to the **INTEGRATIONS** tab in your blog's dashboard
-6. Paste the Site ID in the **Fathom Analytics Site ID** input field.
-7. Click on the **Update** button to save your changes.
+4. Head to the **INTEGRATIONS** tab in your blog's dashboard
+5. Paste the Site ID in the **Fathom Analytics Site ID** input field.
+6. Click on the **Update** button to save your changes.
 
 ## Meta Tags
 
