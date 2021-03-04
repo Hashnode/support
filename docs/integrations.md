@@ -51,7 +51,7 @@ Here is how to add a third-party integration to your blog:
 2. Add a new data source.
 3. Create a Facebook pixel.
 4. Copy your Facebook Pixel ID (Looks like *377164589436266*).
-5. Head to the **ANALYTICS** tab in your blog's dashboard
+5. Head to the **INTEGRATIONS** tab in your blog's dashboard
 6. Paste the Pixel ID in the **Facebook Pixel ID** input field.
 
 ## Plausible Analytics
@@ -87,14 +87,14 @@ Here is how to add a third-party integration to your blog:
 1. Create a Fathom account.
 2. Add a new site in your settings.
 3. Copy your Site ID (Looks like *HUVBAGGT*).
-5. Head to the **ANALYTICS** tab in your blog's dashboard
+5. Head to the **INTEGRATIONS** tab in your blog's dashboard
 6. Paste the Site ID in the **Fathom Analytics Site ID** input field.
 7. Click on the **Update** button to save your changes.
 
 ## Meta Tags
 
 1. Use this to insert meta tags in the `<head>` element of your blog (e.g., Google Webmaster Verification Tag).
-2. Head to the **ANALYTICS** tab in your blog's dashboard
+2. Head to the **INTEGRATIONS** tab in your blog's dashboard
 3. Paste the meta tag in the **Meta Tags** input field.
 
 ## Web Monetization Payment Pointer
@@ -103,5 +103,5 @@ Here is how to add a third-party integration to your blog:
 2. Learn what web monetization is and how it works [here](https://webmonetization.org/).
 3. Set up a [web monetized receiver (digital wallet)](https://webmonetization.org/docs/ilp-wallets) for receiving payments.
 4. Copy your payment pointer (Looks like *$ilp.uphold.com/Px2krEJk7GWQ*).
-5. Head to the **ANALYTICS** tab in your blog's dashboard
+5. Head to the **INTEGRATIONS** tab in your blog's dashboard
 6. Paste the meta tag in the **Web Monetization Payment Pointer** input field.
