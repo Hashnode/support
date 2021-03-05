@@ -19,11 +19,11 @@ Here is how to create an account on Hashnode:
 
 3. Enter your preferred email address or sign in with your favorite social network (GitHub, Google, Twitter & LinkedIn).
 
-![Hashnode OnBoarding Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600710189887/YGLqppj48.png?auto=compress)
+![Hashnode OnBoarding Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614932421441/gMcNE6DMZ.png?auto=compress)
 
 4. If you choose to enter the email address instead, you will receive a secure link in your email inbox. Click on the link to continue the signup process.
 
-![Hashnode Magic Link](https://cdn.hashnode.com/res/hashnode/image/upload/v1600710542815/cUbNrkYSh.png?auto=compress)
+![Hashnode Magic Link](https://cdn.hashnode.com/res/hashnode/image/upload/v1614932279662/IfvMGc1ye.png?auto=compress)
 
 5. Complete your profile by adding your **Full name**, **Hashnode username**, **Tagline**, and **Profile picture**.
 

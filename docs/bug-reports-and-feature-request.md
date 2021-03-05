@@ -12,26 +12,32 @@ Here is how to submit a feature request or report a bug on Hashnode.
 
 1. Go to Hashnode's [Feature Requests](https://hashnode.com/feature-requests) page.
 
-![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712222397/mB--XMDbH.png?auto=compress)
+![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614933787374/bAl4gGVGi.png?auto=compress)
 
 2. Click on the **New Request** button at the center of the page to add the feature request or bug report.
 
-![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712294668/KGZ2oeaUK.png?auto=compress)
+![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614935003492/HwilwZ8UA.png?auto=compress)
 
 3. Add a title and description of the feature request or bug you intend to report.
 
-![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712473168/x3GdDXFS6.png?auto=compress)
+![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614935809283/qWxsCEZXn7.png?auto=compress)
 
-4. Use the radio button options to select if you want to submit a **Feature Request** or make a **Bug Report**.
+4. After completing the title and description fields, click on the **Settings** option.
 
-![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712378143/RI_ZsHoiK.png?auto=compress)
+![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614935904799/CX840Egjo.png?auto=compress)
 
-5. Click on the **Submit** button to complete the process.
+5. Use the radio button options to select if you want to submit a **Feature Request** or make a **Bug Report**.
+
+![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614936088687/-bNotMr1s.png?auto=compress)
+
+6. Click on the **Submit** button to complete the process.
+
+![Hashnode Feature Request Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1614936438717/WU0bxBkNe.png?auto=compress)
 
 ---
 
-You can track the progress of submitted requests by using the toolbar to navigate through **Open**, **Closed**, and **Archived** requests.
+You can track the progress of submitted requests by using the toolbar to navigate through **Top**, **New**, **In progress**, **Closed** and **Archived** requests.
 
 The **In progress** label signifies which feature request or bug report is currently a work in progress task by the Hashnode team.
 
-![Feature Request Toolbar](https://cdn.hashnode.com/res/hashnode/image/upload/v1600712664697/I332xAUD_.png?auto=compress)
+![Feature Request Toolbar](https://cdn.hashnode.com/res/hashnode/image/upload/v1614936732862/HDI-b_Sm1.png?auto=compress)

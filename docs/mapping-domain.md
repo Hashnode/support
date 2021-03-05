@@ -13,15 +13,15 @@ In this guide, you will learn how to accomplish this alongside some additional s
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614932849541/cBNDGKXMj.png?auto=compress)
 
 3. Click on the **Blog Dashboard** option from the popup modal to access your blog's dashboard.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600777454265/bQ7rPPNO2.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614937218081/InvxVHXDy.png?auto=compress)
 
 4. Navigate to the **DOMAIN** tab and enter your domain without the **www** or **https://** prefix in the text field provided. Then click on the **Update** button to proceed.
 
-![Hashnode's Blog Domain Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1611128651213/fzVTxERYc.png?auto=compress)
+![Hashnode's Blog Domain Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1614937377176/0cwddAywO.png?auto=compress)
 
 5. If your DNS provider supports CNAME record, head over to your DNS provider and add a **CNAME record** where the hostname is **@**, and the corresponding value is **hashnode.network**. This CNAME record will point your domain or subdomain to Hashnode's IP address.
 

@@ -23,7 +23,11 @@ Here is how to write a post on Hashnode:
 
 ![Hashnode's Editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1614681165463/c5JVhaVKQ.png?auto=compress)
 
-5. Start typing in the text field to select some tags in the **Select tags** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
+5. After that, click on the **Settings** button for more options!
+
+![Hashnode's Editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1614938406303/Y9iXe61r-.png?auto=compress)
+
+6. Start typing in the text field to select some tags in the **Select tags** section at the top-right sidebar of the editor on your *desktop* or bottom corner of the editor on your *mobile* screen.
 
 ![Select Tags on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1614681199811/FfRCELANU.png?auto=compress)
 
