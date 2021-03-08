@@ -23,11 +23,11 @@ Here is how to create an account on Hashnode:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on your *desktop* or top-right corner of the page on your *mobile*  screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614932849541/cBNDGKXMj.png?auto=compress)
 
 3. Click on the **Account Settings** option from the popup modal to access the settings page.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614933201339/atOcHm26X.png?auto=compress)
 
 4. Click on the **PUBLICATIONS** tab.
 
