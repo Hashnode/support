@@ -15,13 +15,15 @@ Here is how to set up automatic GitHub backups on your blog:
 
 3. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 4. Click on the **Blog Dashboard** option from the popup modal to access your blog's dashboard.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495148429/anxbO8ZqM.png?auto=compress)
 
 5. Navigate to **BACKUP** and click the **Hashnode GitHub App** link provided to install the Hashnode GitHub App in the repository you created. 
+
+![Backup](https://cdn.hashnode.com/res/hashnode/image/upload/v1616498249834/hf1tk9VQ0.png?auto=compress)
 
 6. Select "one repository" (the repository you created) and click on **Save**.
 

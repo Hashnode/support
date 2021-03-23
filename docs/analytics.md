@@ -30,5 +30,5 @@ Here is how to check your blog's analytics:
 
 ![Hashnode Analytics](https://cdn.hashnode.com/res/hashnode/image/upload/v1616497315320/mNjE3UPMW.png?auto=compress)
 
-![Hashnode Analytics](https://cdn.hashnode.com/res/hashnode/image/upload/v1601383085554/neRc81EVW.png)
+![Hashnode Analytics](https://cdn.hashnode.com/res/hashnode/image/upload/v1601383085554/neRc81EVW.png?auto=compress)
 
