@@ -24,15 +24,15 @@ Here is how to add a third-party integration to your blog:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Blog Dashboard** option from the popup modal to access your blog's dashboard.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495148429/anxbO8ZqM.png?auto=compress)
 
-4. Click on the **WIDGETS** tab, find the service you want to integrate, paste the embed code in the field provided, and click the **Update** button to save your changes.
+4. Click on the **Integrations** tab, find the service you want to integrate, paste the embed code in the field provided, and click the **Update** button to save your changes.
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611068792880/ItdoMuIoC.png)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1616575385755/n8J9-oGFb.png)
 
 ---
 
