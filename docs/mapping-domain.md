@@ -43,13 +43,13 @@ Here is how to setup custom domain for your Hashnode blog using the most popular
 
 ---
 
-Still not sure if your DNS provider supports CNAME flattering or when to use CNAME or A record? Here is a quick summary to guide you:
+Still not sure if your DNS provider supports CNAME flattening or when to use CNAME or A record? Here is a quick summary to guide you:
 
 - If you are setting up a domain at the root level (e.g., yourdomain.tld**), and your DNS provider supports CNAME flattening, **use a CNAME record**.
 - If you are setting up a root domain and your DNS provider does not support CNAME flattening, **use an A record**.
 - If you set up a sub-domain (e.g., **blog.yourdomain.tld**), **use a CNAME record** without any worries.
 
-| DNS Provider                   | Supports CNAME Flattering | Use CNAME Record (Root) | Use A Record (Root) |
+| DNS Provider                   | Supports CNAME flattening | Use CNAME Record (Root) | Use A Record (Root) |
 |--------------------------------|---------------------------|-------------------------|---------------------|
 | Namecheap                      | No                        | -                       | ✅                  |
 | Cloudflare                      | Yes                       | ✅                      | -                   |
