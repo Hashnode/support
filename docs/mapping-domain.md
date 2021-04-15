@@ -39,7 +39,7 @@ Here is how to setup custom domain for your Hashnode blog using the most popular
 
 - [NameCheap guide](mapping-namecheap)
 - [Cloudflare guide](mapping-cloudflare)
-- [GoDaddy guide](mapping-godaddyx)
+- [GoDaddy guide](mapping-godaddy)
 
 ---
 
