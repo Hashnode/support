@@ -48,3 +48,14 @@ Now that you can create **Series** directly on your blog, here's all you need to
     -   Finally, edit the posts again and tag them with the correct series!
 
 3. If you have multiple blogs on Hashnode, you have to edit your existing series and move them to the right blog. Just make sure all the posts in your series are a part of the destination blog.
+
+
+## How to pin series to your navbar
+
+To pin a series to your navbar, go to your blog's dashboard, click on the **Navbar** tab, add the required information and click on the **Save Navbar** button.
+
+![Hashnode's Navbar](https://cdn.hashnode.com/res/hashnode/image/upload/v1618519518961/YXl-6sa8H.png?auto=compress)
+
+Your navbar should now look like this. 👇
+
+![Townhall's homepage](https://cdn.hashnode.com/res/hashnode/image/upload/v1615552009337/ja1R4O_2w.jpeg?auto=compress)
