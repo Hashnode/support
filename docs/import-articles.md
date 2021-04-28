@@ -78,3 +78,13 @@ With the new bulk markdown importer, you can import a zip file containing posts 
 3. Finally, click on the **Publish** button to publish the markdown file(s) to your blog.
 
 ![Bulk Markdown Importer](https://cdn.hashnode.com/res/hashnode/image/upload/v1608288165414/nWUcJCZmG.png)
+
+## RSS Importer
+
+In addition to our Medium, Dev.to, and Bulk markdown importer, you can also import articles to your Hashnode blog using our RSS importer. 
+
+The RSS importer is the most recommended method to use when migrating articles from WordPress to Hashnode. 😀
+
+![Import from RSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1616158000163/BAjfQAck9.png?auto=compress)
+
+To use the new RSS Importer, go to your blog's dashboard, navigate to Import and click on RSS Importer. In the *Import from RSS* section, enter your RSS feed URL & the tag containing the post body into the input fields. Then, click on Import.
