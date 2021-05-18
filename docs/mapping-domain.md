@@ -59,5 +59,6 @@ Still not sure if your DNS provider supports CNAME flattening or when to use CNA
 | Cisco Umbrella                 | No                        | -                       | ✅                  |
 | Amazon Route 53                | No                        | -                       | ✅                  |
 | Google Cloud DNS               | No                        | -                       | ✅                  |
+| Hostinger                      | No                        | ✅                      | ✅                  |
 | IBM Domain Name Services (DNS) | Yes                       | ✅                      | -                   |
 | Azure DNS                      | Yes                       | ✅                      | -                   |
