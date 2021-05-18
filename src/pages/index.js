@@ -10,10 +10,10 @@ const features = [
     title: 'Getting Started',
     description: (
       <>
-        <li><a href = {useBaseUrl('/docs/')}>Using Hashnode</a></li>
-        <li><a href = {useBaseUrl('/docs/hashnode-glossary')}>Hashnode Glossary</a></li>
-        <li><a href = {useBaseUrl('/docs/create-personal-blog')}>Create Personal Blog</a></li>
-        <li><a href = {useBaseUrl('/docs/bug-reports-and-feature-request')}>Bug Reports and Feature Requests</a></li>
+        <li><a href = "docs/">Using Hashnode</a></li>
+        <li><a href = "docs/hashnode-glossary">Hashnode Glossary</a></li>
+        <li><a href = "docs/create-personal-blog">Create Personal Blog</a></li>
+        <li><a href = "docs/bug-reports-and-feature-request">Bug Reports and Feature Requests</a></li>
 
       </>
     ),
@@ -22,10 +22,10 @@ const features = [
     title: 'Mapping to Custom Domain',
     description: (
       <>
-       <li><a href = {useBaseUrl('/docs/mapping-domain')}>Introduction</a></li>
-        <li><a href = {useBaseUrl('/docs/mapping-godaddy')}>Mapping From GoDaddy</a></li>
-        <li><a href = {useBaseUrl('/docs/mapping-cloudflare')}>Mapping From Cloudflare</a></li>
-        <li><a href = {useBaseUrl('/docs/mapping-namecheap')}>Mapping From Namecheap</a></li>
+       <li><a href = "/docs/mapping-domain">Introduction</a></li>
+        <li><a href = "/docs/mapping-godaddy">Mapping From GoDaddy</a></li>
+        <li><a href = "/docs/mapping-cloudflare">Mapping From Cloudflare</a></li>
+        <li><a href = "/docs/mapping-namecheap">Mapping From Namecheap</a></li>
       </>
     ),
   },
