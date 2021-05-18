@@ -78,14 +78,6 @@ This is a weekly email from Hashnode with product announcements, upcoming AMAs, 
 
 This is the email sent by any blog you subscribe to every time a new article is published.
 
-## She Inspires
-
-This is a text-based interview series all about talking to awesome women in tech, understanding the tech industry's current health, and inspiring other women to become better.
-
-## AMA (Ask Me Anything)
-
-This is a text-based or video-based Ask Me Anything session where Hashnode users get to ask different questions and get answers to their favorite developer influencers and community leads from various fields and industries.
-
 ## Writing Challenges
 
 These are Hashnode writing challenges that encourage writers to become better, consistent, and win exciting prizes.
