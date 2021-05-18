@@ -23,7 +23,7 @@ const features = [
     title: 'Mapping to Custom Domain',
     description: (
       <>
-       <li><a href = "https://support.hashnode.com/docs/mapping-domain">Introduction</a></li>
+       <li><a href = "docs/mapping-domain">Introduction</a></li>
         <li><a href = "docs/mapping-godaddy">Mapping From GoDaddy</a></li>
         <li><a href = "docs/mapping-cloudflare">Mapping From Cloudflare</a></li>
         <li><a href = "docs/mapping-namecheap">Mapping From Namecheap</a></li>
