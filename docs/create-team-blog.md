@@ -7,15 +7,15 @@ The Team Blog feature is currently **in beta** (ongoing testing/improvements), a
 
 However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please [fill this form](https://forms.gle/VcquJ7d9Nagj6LeY8) to request to join the beta access list.
 
-Remember, your _Team Blog_ is still a "blog"; all the features and settings of a _Personal Blog_ still apply. Hence, you can customize your _Team Blog_ as you deem fit using the guides provided [here](account-settings).
+Remember, your _Team Blog_ is still a "blog"; all the features and settings of a _Personal Blog_ still apply. Hence, you can customize your _Team Blog_ as you deem fit using the guides provided [here](account-settings.md).
 
 ---
 
 Before creating a team publication, here are some prerequisites needed:
 
 - A Hashnode account. [Learn how to create one here](#create-an-account).
-- A personal blog powered by Hashnode. [Learn how to create one here](create-personal-blog).
-- Beta access to the Team Blog feature. [Request one here](create-team-blog).
+- A personal blog powered by Hashnode. [Learn how to create one here](create-personal-blog.md).
+- Beta access to the Team Blog feature. [Request one here](create-team-blog.md).
 
 Here is how to create an account on Hashnode:
 

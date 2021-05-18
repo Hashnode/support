@@ -3,7 +3,7 @@ id: widgets
 title: Widgets
 ---
 
-Widgets are regular embeds that can be inserted anywhere in your articles. This feature allows you to embed any third party widget (embeds/iframes outside the ([embeds we support by default](embeds)) inside your articles with no limitations.
+Widgets are regular embeds that can be inserted anywhere in your articles. This feature allows you to embed any third party widget (embeds/iframes outside the ([embeds we support by default](embeds.md)) inside your articles with no limitations.
 
 When you create a widget in your dashboard, you can insert it in your article like so:
 

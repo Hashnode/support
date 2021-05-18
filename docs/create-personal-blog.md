@@ -43,7 +43,7 @@ Here is how to create an account on Hashnode:
 
 > If you selected Hashnode's subdomain (**yourname.hashnode.com**), enter your preferred subdomain name and click on the **Next** button to complete the blog creation process.
 
-> If you selected your domain (**yourblogname.com**), read this [guide](mapping-domain) to learn how to add a custom domain to a Hashnode blog.
+> If you selected your domain (**yourblogname.com**), read this [guide](mapping-domain.md) to learn how to add a custom domain to a Hashnode blog.
 
 3. Your blog is now created; click on the link provided to access your blog and manage your dashboard, respectively.
 
