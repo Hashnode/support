@@ -37,9 +37,9 @@ In this guide, you will learn how to accomplish this alongside some additional s
 
 Here is how to setup custom domain for your Hashnode blog using the most popular DNS providers:
 
-- [NameCheap guide](mapping-namecheap)
-- [Cloudflare guide](mapping-cloudflare)
-- [GoDaddy guide](mapping-godaddy)
+- [NameCheap guide](mapping-namecheap.md)
+- [Cloudflare guide](mapping-cloudflare.md)
+- [GoDaddy guide](mapping-godaddy.md)
 
 ---
 
