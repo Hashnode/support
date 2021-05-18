@@ -9,7 +9,6 @@ module.exports = {
     "https://cdn.hashnode.com/res/hashnode/image/upload/v1611242173172/AOX1gE2jc.png",
   organizationName: "hashnode", // Usually your GitHub org/user name.
   projectName: "support", // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-gtag'],
   themeConfig: {
     navbar: {
       // title: 'Hashnode',
@@ -41,9 +40,6 @@ module.exports = {
       //... other Algolia params
     },
     gtag: {
-      trackingID: 'UA-69832919-13',
-    },
-    googleAnalytics: {
       trackingID: 'UA-69832919-13',
     },
     footer: {
