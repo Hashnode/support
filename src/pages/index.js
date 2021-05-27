@@ -1,7 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
@@ -23,10 +22,10 @@ const features = [
     title: 'Mapping to Custom Domain',
     description: (
       <>
-       <li><a href = "docs/mapping-domain">Introduction</a></li>
-        <li><a href = "docs/mapping-godaddy">Mapping From GoDaddy</a></li>
-        <li><a href = "docs/mapping-cloudflare">Mapping From Cloudflare</a></li>
-        <li><a href = "docs/mapping-namecheap">Mapping From Namecheap</a></li>
+       <li><a href = "/docs/mapping-domain">Introduction</a></li>
+        <li><a href = "/docs/mapping-godaddy">Mapping From GoDaddy</a></li>
+        <li><a href = "/docs/mapping-cloudflare">Mapping From Cloudflare</a></li>
+        <li><a href = "/docs/mapping-namecheap">Mapping From Namecheap</a></li>
       </>
     ),
   },

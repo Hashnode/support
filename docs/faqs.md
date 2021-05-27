@@ -7,7 +7,7 @@ Find below frequently asked questions about Hashnode:
 
 ## How can I add a custom domain to my blog?
 
-Learn how to add and set up a custom domain to your Hashnode blog [here](mapping-domain).
+Learn how to add and set up a custom domain to your Hashnode blog [here](mapping-domain.md).
 
 ## How can I change my Hashnode username?
 

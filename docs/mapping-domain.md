@@ -37,19 +37,19 @@ In this guide, you will learn how to accomplish this alongside some additional s
 
 Here is how to setup custom domain for your Hashnode blog using the most popular DNS providers:
 
-- [NameCheap guide](mapping-namecheap)
-- [Cloudflare guide](mapping-cloudflare)
-- [GoDaddy guide](mapping-godaddyx)
+- [NameCheap guide](mapping-namecheap.md)
+- [Cloudflare guide](mapping-cloudflare.md)
+- [GoDaddy guide](mapping-godaddy.md)
 
 ---
 
-Still not sure if your DNS provider supports CNAME flattering or when to use CNAME or A record? Here is a quick summary to guide you:
+Still not sure if your DNS provider supports CNAME flattening or when to use CNAME or A record? Here is a quick summary to guide you:
 
 - If you are setting up a domain at the root level (e.g., yourdomain.tld**), and your DNS provider supports CNAME flattening, **use a CNAME record**.
 - If you are setting up a root domain and your DNS provider does not support CNAME flattening, **use an A record**.
 - If you set up a sub-domain (e.g., **blog.yourdomain.tld**), **use a CNAME record** without any worries.
 
-| DNS Provider                   | Supports CNAME Flattering | Use CNAME Record (Root) | Use A Record (Root) |
+| DNS Provider                   | Supports CNAME Flattening | Use CNAME Record (Root) | Use A Record (Root) |
 |--------------------------------|---------------------------|-------------------------|---------------------|
 | Namecheap                      | No                        | -                       | ✅                  |
 | Cloudflare                      | Yes                       | ✅                      | -                   |
@@ -59,5 +59,6 @@ Still not sure if your DNS provider supports CNAME flattering or when to use CNA
 | Cisco Umbrella                 | No                        | -                       | ✅                  |
 | Amazon Route 53                | No                        | -                       | ✅                  |
 | Google Cloud DNS               | No                        | -                       | ✅                  |
+| Hostinger                      | No                        | ✅                      | ✅                  |
 | IBM Domain Name Services (DNS) | Yes                       | ✅                      | -                   |
 | Azure DNS                      | Yes                       | ✅                      | -                   |
