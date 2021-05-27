@@ -19,7 +19,7 @@ Allow people to support your work without forcing them to do so!
 
 First of all, go to your blog dashboard and then click on the `Sponsors` tab, as shown in figure 1.
 
-![Screenshot 2021-05-27 at 11.43.40.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622107556315/pxJWXuyf1.png)
+![Hashnode Sponsors](https://cdn.hashnode.com/res/hashnode/image/upload/v1622107556315/pxJWXuyf1.png)
 > Figure 1
 
 The next step is to select your country.

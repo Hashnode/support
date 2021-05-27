@@ -82,4 +82,4 @@ This is the email sent by any blog you subscribe to every time a new article is 
 
 These are Hashnode writing challenges that encourage writers to become better, consistent, and win exciting prizes.
 
-Read more about [writing challenges](/docs/writing-challenges).
+Read more about [writing challenges](writing-challenges.md).
