@@ -72,7 +72,7 @@ The static page is a feature available on all personal and team blogs that allow
 
 ## Hashnode Weekly Digest
 
-This is a weekly email from Hashnode with product announcements, upcoming AMAs, top articles on Hashnode, new and noteworthy blogs, and writing challenges. You can [manage your email notification preferences](account-settings) in your account settings.
+This is a weekly email from Hashnode with product announcements, upcoming AMAs, top articles on Hashnode, new and noteworthy blogs, and writing challenges. You can [manage your email notification preferences](/docs/account-settings) in your account settings.
 
 ## Newsletter
 
@@ -89,3 +89,5 @@ This is a text-based or video-based Ask Me Anything session where Hashnode users
 ## Writing Challenges
 
 These are Hashnode writing challenges that encourage writers to become better, consistent, and win exciting prizes.
+
+Read more about [writing challenges](/docs/writing-challenges).
