@@ -47,6 +47,7 @@ const features = [
     description: (
       <> 
         <li><a href = "docs/ambassador-program">Hashnode Ambassador</a></li>
+        <li><a href = "docs/hashnode-sponsors">Hashnode Sponsors</a></li>
       </>
     ),
   },
