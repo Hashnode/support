@@ -40,7 +40,16 @@ const features = [
         <li><a href = "docs/edit-drafts">Edit Drafts </a></li>
       </>
     ),
-  },{
+  },
+  {
+    title: 'How To Guides',
+    description: (
+      <> 
+        <li><a href = "docs/ambassador-program">Hashnode Ambassador</a></li>
+      </>
+    ),
+  },
+  {
     title: 'Settings & Customization',
     description: (
       <>
