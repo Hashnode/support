@@ -36,6 +36,10 @@ As developers, we write to share knowledge, document our learnings, and improve 
 
 ![Hashnode Challenges](https://cdn.hashnode.com/res/hashnode/image/upload/v1607959597538/RahvoD9aV.png?auto=compress&auto=compress)
 
-**Read more about the writing challenges on the "[Writing Challenges](writing-challenges.md)" page.**
+-   [Self Starter](https://hashnode.com/challenge/self-starter): Publish your first article on Hashnode and become a self-starter!
+-   [Crazy Blogger](https://hashnode.com/challenge/crazy-blogger): Publish an article every day for 7 days and earn a cool crazy blogger badge!
+-   [Word Warrior](https://hashnode.com/challenge/word-warrior): Write an in-depth article on your Hashnode blog that's more than 2000 words and become a word warrior!
+-   [Talk of the town](https://hashnode.com/challenge/talk-of-the-town): Write a story that drives excellent engagement on Hashnode and become the talk of the town!
+-   [#2Articles1Week Challenge](https://hashnode.com/challenge/2articles1week): Become better at technical writing; accept Hashnode's writing challenge for four weeks.
 
-⏩ You can also find the challenges on the Hashnode homepage. Go to your [Hashnode feed](https://hashnode.com/) and find challenges on the right-hand sidebar.
+⏩ Go to your [Hashnode feed](https://hashnode.com/) and find challenges on the right-hand sidebar.
