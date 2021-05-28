@@ -38,9 +38,19 @@ const features = [
         <li><a href = "docs/markdown-guidelines">Markdown Guidelines</a></li>
         <li><a href = "docs/edit-article">Edit Published Article </a></li>
         <li><a href = "docs/edit-drafts">Edit Drafts </a></li>
+        <li><a href = "docs/writing-challenges">Writing Challenges</a></li>
       </>
     ),
-  },{
+  },
+  {
+    title: 'How To Guides',
+    description: (
+      <> 
+        <li><a href = "docs/ambassador-program">Hashnode Ambassador</a></li>
+      </>
+    ),
+  },
+  {
     title: 'Settings & Customization',
     description: (
       <>
