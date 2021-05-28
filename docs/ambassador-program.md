@@ -5,7 +5,7 @@ title: Hashnode Ambassador
 
 ## What is it?
 
-The Hashnode Ambassador Program is a way Hashnode rewards its people for spreading the word about Hashnode.
+The Hashnode Ambassador program is a way Hashnode rewards its people for spreading the word about Hashnode.
 
 If you enjoy Hashnode, and want to see your friends here as well, refer them and become a Hashnode Ambassador.
 
