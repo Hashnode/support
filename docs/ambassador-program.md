@@ -25,23 +25,15 @@ There are criteria you need to meet to become an ambassador. Check the steps you
 
 ## The benefits of being an ambassador
 
-Becoming a Hashnode ambassador comes with certain perks. See all the benefits you receive when you become an ambassador:
-
-* **Beta features access** => You get access to beta features before everyone else. Also, some features are only accessible to ambassadors.
-* **Custom CSS** => Get access to the Custom CSS feature. You can override the Hashnode's default design. Thus, you can personalise your blog!
-* **Reading history** => With the reading history you can keep track of the articles you read on mobile and desktop devices. You can always get back to them later.
-* **Publish from Github** => When you become an ambassador, you can publish articles on Hashnode straight from Github. Once you get the ambassador group, connect your blog to Github and start publishing articles!
-* **Who liked my articles?** => As a Hashnode ambassador, you can see the people who react to your articles.
-* **Exclusive Discord group** => You get access to an exclusive Discord channel only for ambassadors.
-* **Gold profile ring** => You receive a unique gold ring around your profile photo to announce that you are a Hashnode ambassador.
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978663055/Gfo-S55MR.png?auto=compress" width="80" alt="Access Beta Features" />
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978732431/SNY4Rtg5n.png?auto=compress" width="80" alt="Reading History" />
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978774735/Sj5mEm7lw.png?auto=compress" width="80" alt="Who Liked My Article?" />
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978828316/KcFRdhqI_.png?auto=compress" width="80" alt="Custom CSS" />
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614000699090/XO9wR_2Yu.png?auto=compress" width="80" alt="Source From GitHub" />
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613979080756/-Ktgloxcn.png?auto=compress" width="80" alt="Exclusive Discord Group" />
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1597084357835/nVQVaJ4lw.png?auto=compress" width="80" alt="Gold Profile Ring" />
+| Feature                     | Description                                                                                                                                                                             | Icon                                                                                                                                                                      |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Beta features access**    | You get access to beta features before everyone else. Also, some features are only accessible to ambassadors.                                                                           | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978663055/Gfo-S55MR.png?auto=compress" width="80" alt="Access Beta Features" />    |
+| **Custom CSS**              | Get access to the Custom CSS feature. You can override the Hashnode's default design. Thus, you can personalise your blog!                                                              | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978828316/KcFRdhqI_.png?auto=compress" width="80" alt="Custom CSS" />             |
+| **Reading History**         | With the reading history you can keep track of the articles you read on mobile and desktop devices. You can always get back to them later.                                              | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978732431/SNY4Rtg5n.png?auto=compress" width="80" alt="Reading History" />         |
+| **Publish from Github**     | When you become an ambassador, you can publish articles on Hashnode straight from Github. Once you get the ambassador group, connect your blog to Github and start publishing articles! | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614000699090/XO9wR_2Yu.png?auto=compress" width="80" alt="Source From GitHub" />      |
+| **Who liked my articles?**  | As a Hashnode ambassador, you can see the people who react to your articles.                                                                                                            | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978774735/Sj5mEm7lw.png?auto=compress" width="80" alt="Who Liked My Article" />   |
+| **Exclusive Discord group** | You get access to an exclusive Discord channel only for ambassadors.                                                                                                                    | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613979080756/-Ktgloxcn.png?auto=compress" width="80" alt="Exclusive Discord Grup" /> |
+| **Gold profile ring**       | You receive a unique gold ring around your profile photo to announce that you are a Hashnode ambassador.                                                                                | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1597084357835/nVQVaJ4lw.png?auto=compress" width="80" alt="Gold Profile Ring" />       |
 
 ---
 

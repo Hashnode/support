@@ -36,6 +36,6 @@ As developers, we write to share knowledge, document our learnings, and improve 
 
 ![Hashnode Challenges](https://cdn.hashnode.com/res/hashnode/image/upload/v1607959597538/RahvoD9aV.png?auto=compress&auto=compress)
 
-**Read more about the writing challenges on the "[Writing Challenges](writing-challenges)" page.**
+**Read more about the writing challenges on the "[Writing Challenges](writing-challenges.md)" page.**
 
 ⏩ You can also find the challenges on the Hashnode homepage. Go to your [Hashnode feed](https://hashnode.com/) and find challenges on the right-hand sidebar.

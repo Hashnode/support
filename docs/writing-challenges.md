@@ -18,7 +18,7 @@ Hashnode created writing challenges to help you become better at blogging. By co
 At the moment, there are 5 writing challenges:
 * **Self Starter**
 * **Word Warrior**
-* **Talkf of the town**
+* **Talk of the town**
 * **Crazy Blogger**
 * **#2Articles1Week**
 
@@ -58,7 +58,7 @@ You should pick one subject and publish a well researched article with 2K+ words
 
 ---
 
-## [Talkf of the town](https://hashnode.com/challenge/talk-of-the-town)
+## [Talk of the town](https://hashnode.com/challenge/talk-of-the-town)
 
 > Write an article on your Hashnode blog that receives high engagement from the Hashnode community.
 
