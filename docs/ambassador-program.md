@@ -3,27 +3,26 @@ id: ambassador-program
 title: Hashnode Ambassador
 ---
 
-## What is it?
+The Hashnode Ambassador program is a way Hashnode rewards developers for spreading the word about Hashnode. 
 
-The Hashnode Ambassador program is a way Hashnode rewards its people for spreading the word about Hashnode.
-
-If you enjoy Hashnode, and want to see your friends here as well, refer them and become a Hashnode Ambassador.
-
-It comes with many useful perks! See below all the perks and rules!
-
----
+If you enjoy Hashnode and want to see your friends here as well, refer them and become a Hashnode Ambassador. It comes with many valuable perks and an exclusive T-shirt!
 
 ## How to become an ambassador
 
-There are criteria you need to meet to become an ambassador. Check the steps you need to undertake:
+By following the three steps below, you'd automatically become a Hashnode Ambassador. 
 
-1. Use your **referral** link to invite your friends to Hashnode.
-2. **Invite 3 friends** to join Hashnode using your referral link. Once the complete the sign up process, you unlock the ambassador role instantly.
-3. Become the **top referrer of the day** and win an exclusive Hashnode t-shirt.
+1. First, go to the [Hashnode Ambassadors](https://hashnode.com/ambassador) homepage.
+2. Copy your **referral** link and share it with friends or colleagues. 
+3. Once a minimum of 3 people have joined Hashnode using your referral link; you automatically become a Hashnode Ambassador 🥳 
 
----
+## Win an exclusive Hashnode T-shirt
 
-## The benefits of being an ambassador
+Every day, we give the top referrer of the day an exclusive Hashnode T-shirt. Want to win one? Spread the word about Hashnode. 😃 
+
+
+## Other benefits of being a Hashnode Ambassador
+
+Aside from winning an exclusive Hashnode T-shirt, here are other things you stand to gain from being a Hashnode Ambassador.
 
 | Feature                     | Description                                                                                                                                                                             | Icon                                                                                                                                                                      |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +33,3 @@ There are criteria you need to meet to become an ambassador. Check the steps you
 | **Who liked my articles?**  | As a Hashnode ambassador, you can see the people who react to your articles.                                                                                                            | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613978774735/Sj5mEm7lw.png?auto=compress" width="80" alt="Who Liked My Article" />   |
 | **Exclusive Discord group** | You get access to an exclusive Discord channel only for ambassadors.                                                                                                                    | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613979080756/-Ktgloxcn.png?auto=compress" width="80" alt="Exclusive Discord Grup" /> |
 | **Gold profile ring**       | You receive a unique gold ring around your profile photo to announce that you are a Hashnode ambassador.                                                                                | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1597084357835/nVQVaJ4lw.png?auto=compress" width="80" alt="Gold Profile Ring" />       |
-
----
-
-➡️ There is an official [ambassador page](https://hashnode.com/ambassador).
