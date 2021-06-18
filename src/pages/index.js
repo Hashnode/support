@@ -45,7 +45,10 @@ const features = [
     title: 'How To Guides',
     description: (
       <> 
+        <li><a href = "docs/custom-css">Custom CSS</a></li>
         <li><a href = "docs/ambassador-program">Hashnode Ambassador</a></li>
+        <li><a href = "docs/hashnode-sponsors">Hashnode Sponsors</a></li>
+        <li><a href = "docs/audio-blogs">Audio Blogs</a></li>
       </>
     ),
   },
