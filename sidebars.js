@@ -4,7 +4,7 @@ module.exports = {
     "Mapping to Custom Domain": ['mapping-domain','mapping-cloudflare', 'mapping-godaddy', 'mapping-namecheap', 'mapping-domain-faqs'],
     "Writing and Editing" :['write-an-article', 'tags', 'markdown-guidelines', 'embeds', 'edit-url-type', 'edit-slug', 'edit-article', 'edit-drafts', 'cover-photo', 'writing-challenges'], 
     "Settings & Customization":['account-settings', 'analytics', 'export-articles','general-settings', 'github-backup', 'import-articles','integrations', 'newsletter', 'seo', 'google-search-console', 'static-pages',  'teams-blog-settings', 'widgets' ],
-    "How To Guides":['custom-css', 'ambassador-program', 'hashnode-sponsors', 'series', 'audio-blogs', 'custom-page-rules'],
+    "How To Guides":['custom-css', 'ambassador-program', 'hashnode-sponsors', 'series', 'audio-blogs', 'custom-page-rules', 'navbar'],
     "Safety & Policies": ['community-code-of-conduct', 'report-copyright-infringement', 'report-posts-and-users'], 
     "FAQs" : ['faqs'],
   },
