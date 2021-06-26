@@ -1,9 +1,9 @@
 ---
 id: standard-classes
-title: Standard Classes for Custom CSS on Hashnode
+title: Standard classes
 ---
 
-Here are the standard classes to use when styling your Hashnode blog using our Custom CSS feature.
+Here are the recommended CSS `.class` selectors that you should target when you want to use our Custom CSS feature to style your Hashnode blog. 
 
 * blog-series-collapsible
 * blog-similar-article-cover
