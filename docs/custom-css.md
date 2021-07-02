@@ -19,43 +19,13 @@ If you need access, consider becoming an [ambassador](https://hashnode.com/ambas
 
 ---
 
-## How to enable the Custom CSS feature
+## Standard CSS `.class` selectors
 
-The Custom CSS feature isn't enabled by default on Hashnode. Follow the steps below to enable it on your blog:
-
-1.  Go to your blog's dashboard and click on the **Appearance** tab. 
-![Appearance](https://cdn.hashnode.com/res/hashnode/image/upload/v1623762104118/Fzl_8M2Qu.png)
-2.  Scroll to the bottom of the **Appearance** page and click on the **Toggle button** to enable the Custom CSS feature on your blog.
-![Enable custom CSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1623762246048/0GfZ6uV1w.png)
-3. Finally, click on **Update** to save your changes. 
-4. After enabling the **Custom CSS** feature on my blog, you'd have to click on the **Add Custom CSS link** (see image above) to access the **CSS Editor** (see image below).
-![CSS editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1623764834657/u688ngSLD.png)
-
-Think of this editor as your normal text editor for coding. This is where you will write the CSS code for your Hashnode blog. 
+Here's a [list](standard-classes) of recommended CSS `.class` selectors that you should target when you want to use our Custom CSS feature to style your Hashnode blog. We don't recommend targeting classes that are not on this list.
 
 ---
 
-## How does it work?
-
-Before you delve into styling your blog with Custom CSS, here are some essential things you need to know about the Custom CSS feature.  
-
-### You can't update every styling on your blog 
-
-There's a certain number of CSS classes that can be styled using the Custom CSS feature. To identify these classes, **right click on your blog** and click on **Inspect** your blog. Then search for classes that begin with `.blog-*` ( example: `.blog-header`, `.blog-title`, etc.) and write CSS rules targeting them in your CSS editor. 
-
-### Overriding dark mode styles
-
-To override dark mode styles, use the class `.dark` along with other element specific classes. For example:
-
-```css
-.dark .blog-header{
-    background: white;
-    color: #000;
-    border-bottom: 3px solid #ffd600;
-}
-```
-
-### Rules 
+## Rules 
 
 We review all the custom CSS applied to Hashnode blogs periodically. So, ensure you don't violate any of these rules. 
 
@@ -66,6 +36,23 @@ We review all the custom CSS applied to Hashnode blogs periodically. So, ensure 
 -   Always test your blog's mobile responsiveness before publishing the new styles. 
 -   Ensure that your CSS rules are under 10kb. 
 
+---
+
+## How to enable the Custom CSS feature
+
+The Custom CSS feature isn't enabled by default on Hashnode. Follow the steps below to enable it on your blog:
+
+1.  Go to your blog's dashboard and click on the **Appearance** tab. 
+![Appearance](https://cdn.hashnode.com/res/hashnode/image/upload/v1623762104118/Fzl_8M2Qu.png)
+2.  Scroll to the bottom of the **Appearance** page and click on the **Toggle button** to enable the Custom CSS feature on your blog.
+![Enable custom CSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1623762246048/0GfZ6uV1w.png)
+3. Finally, click on **Update** to save your changes. 
+4. After enabling the **Custom CSS** feature on my blog, you'd have to click on the **Add Custom CSS link** (see image above) to access the **CSS Editor** (see image below).
+![CSS editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1623764834657/u688ngSLD.png). 
+
+Think of this editor as your normal text editor for coding. This is where you will write the CSS code for your Hashnode blog. 
+
+---
 
 ## How to customize your Hashnode blog using Custom CSS
 
@@ -83,3 +70,19 @@ After adding the CSS rules to the editor, you'd have to either save, preview, re
 2. **Preview:** This will let you see the Custom CSS in action without publishing them. You have to click on the Save Styles button before clicking on Preview.
 3. **Reset:** This will revert the CSS rules in the editor to the last published state.
 4. **Publish:** This will push your changes to your blog. So, when you are comfortable with the new styles you've added, click on Publish.
+
+---
+
+## Overriding dark mode styles
+
+To override dark mode styles, use the class `.dark` along with other element specific classes. For example:
+
+```css
+.dark .blog-header{
+    background: white;
+    color: #000;
+    border-bottom: 3px solid #ffd600;
+}
+```
+
+---

@@ -103,3 +103,15 @@ To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/t
 ## What criteria does Hashnode use to select **Featured** articles?
 
 We feature articles that get more traction in a shorter period. We mostly pick articles targeted towards a wider developer audience (i.e., general programming in nature).
+
+## How can I add a gif to a Hashnode article?
+
+To add a gif, follow the steps below:
+
+1. Go to your favourite gif site.
+2. Copy a link to the gif you want to add into your blog.
+3. Paste the link into your article using the format below. 
+
+```
+![Gif description](link here)
+```
