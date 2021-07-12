@@ -21,7 +21,7 @@ If you need access, consider becoming an [ambassador](https://hashnode.com/ambas
 
 ## Standard CSS `.class` selectors
 
-Here's a [list](standard-classes) of recommended CSS `.class` selectors that you should target when you want to use our Custom CSS feature to style your Hashnode blog. We don't recommend targeting classes that are not on this list.
+Here's a [list](standard-classes.md) of recommended CSS `.class` selectors that you should target when you want to use our Custom CSS feature to style your Hashnode blog. We don't recommend targeting classes that are not on this list.
 
 ---
 
