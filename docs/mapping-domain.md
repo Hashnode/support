@@ -29,9 +29,13 @@ In this guide, you will learn how to accomplish this alongside some additional s
 
 > It's not recommended to use the CNAME record at the root level (e.g., **yourdomain.tld**) unless your DNS provider supports [CNAME flattening](https://blog.cloudflare.com/introducing-cname-flattening-rfc-compliant-cnames-at-a-domains-root) as this will affect your domain's MX records and email service.
 
-6. If your DNS provider does not support CNAME flattening, add an **A record** at the root whose value is **192.241.200.144**. However, you will lose the benefits of our global CDN and edge caching with this approach.
+6. If your DNS provider does not support CNAME flattening, add an **A record** at the root whose value is **76.76.21.21**. However, you will lose the benefits of our global CDN and edge caching with this approach.
 
-![Hashnode A record](https://cdn.hashnode.com/res/hashnode/image/upload/v1611129845211/FqAlp-zMZ.png?auto=compress)
+![Hashnode A record](https://cdn.hashnode.com/res/hashnode/image/upload/v1626786303337/6CfP2DwLK.png?auto=compress)
+
+7. When your domain is mapped and ready, you will see three green icons as shown below:
+
+![Domain status](https://cdn.hashnode.com/res/hashnode/image/upload/v1626786372243/fvuT-eh3v.png?auto=compress)
 
 ---
 
