@@ -17,7 +17,7 @@ Hashnode supports the following embeds:
 - Instagram Posts.
 - Giphy GIFs.
 - Runkit.
-- CodeSanbox.
+- CodeSandbox.
 
 The embed markdown syntax is **%[content to embed URL]**.
 
@@ -149,7 +149,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Runkit](https://cdn.hashnode.com/res/hashnode/image/upload/v1616576908956/IjynbHkTJ.png?auto=compress)
 
-## CodeSanbox
+## CodeSandbox
 
 In the Hashnode editor, type the embed code like so:
 
