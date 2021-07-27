@@ -25,7 +25,7 @@ Here is how to import your stories from Medium:
 
 5. Navigate to **IMPORT**, and click on **Medium Importer** to access the section for importing Medium articles.
 
-![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1627373897537/OmynTEOw9.png?auto=compress)
+![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1627377600538/5Ax6vSKbt.png?auto=compress)
 
 6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export.
 
