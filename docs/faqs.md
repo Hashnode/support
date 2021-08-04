@@ -51,7 +51,7 @@ Hashnode supports the following embeds:
 - Instagram Posts.
 - Giphy GIFs.
 - Runkit.
-- CodeSanbox.
+- CodeSandbox.
 
 ## How can I add a table in a blog post?
 
