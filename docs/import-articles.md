@@ -25,17 +25,27 @@ Here is how to import your stories from Medium:
 
 5. Navigate to **IMPORT**, and click on **Medium Importer** to access the section for importing Medium articles.
 
-![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1616498462280/Fs1jhm4Uk.png?auto=compress)
+![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1627377600538/5Ax6vSKbt.png?auto=compress)
 
-6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export. The zip file will be uploaded and processed (this may take a few minutes).
+6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export.
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1616574726890/SbC39YbDm.png?auto=compress)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1627374095978/Z3E3FZK3W.png?auto=compress)
 
-7. Check the articles you want to import from the displayed list and click on the **Publish** button.
+7. The zip file will be uploaded and processed (this may take a few minutes). As it says in the image, do not reload the page while the files are uploading!
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611058306311/X4dQDG2wg.png?auto=compress)
+![Importing the Medium ZIP file](https://cdn.hashnode.com/res/hashnode/image/upload/v1627286474500/Y-mnVB1e4.png)
 
-8. Your article(s) will be automatically published, and you can make edits afterward.
+8. Once the articles are imported, you will get a list with all of them. You can select/unselect all of them or you can select/unselect specific articles.
+
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1627286763041/LlSOuxLP9.png?auto=compress)
+
+9. Once the articles are imported, you can either **save them as drafts** or **publish them directly**. The image below shows an example of importing an article as a draft.
+
+![Medium importer Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1627287043740/YPC72iLhu.png?auto=compress)
+
+If you import the articles as drafts, you can find them in your draft list. You can access your draft articles [here](https://hashnode.com/drafts).
+
+If you publish the articles directly, you can see them on your blog.
 
 ## DEV Importer
 
