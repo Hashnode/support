@@ -66,7 +66,7 @@ This is a standard sentence with `console.log("yeah!")` in it.
 
 ### Block code
 
-Wrap the code blocks with tripple Grave accent keys. **```** for showing big blocks of code in your content. For example:
+Wrap the code blocks with triple Grave accent keys. **```** for showing big blocks of code in your content. For example:
 
 ```
 if (isServer && user) {
