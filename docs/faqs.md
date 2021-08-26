@@ -19,6 +19,8 @@ You don't need to save a draft because it's already saved automatically for you 
 
 ## Why do I have to login again to react/comment to articles?
 
+![Screenshot of the login process](https://cdn.hashnode.com/res/hashnode/image/upload/v1629965591841/ueNECeuQ0.png)
+
 When you visit a blog on a custom domain for **the first time**, you'll need to login to react to/comment on the articles. However, you only need to do it once. Whenever you visit the blog again, you can react and comment without logging in.
 
 This only applies to blogs on **custom domains**. If the blog is on the `hashnode.dev` subdomain, you do not need to login again.
