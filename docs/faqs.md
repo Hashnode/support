@@ -17,6 +17,13 @@ Send an email to [hello@hashnode.com](mailto:hello@hashnode.com?subject=Change%2
 
 You don't need to save a draft because it's already saved automatically for you when you start writing.
 
+## Why do I have to login again to react/comment to articles?
+
+![Screenshot of the login process](https://cdn.hashnode.com/res/hashnode/image/upload/v1629965591841/ueNECeuQ0.png)
+
+When you visit a blog on a custom domain for **the first time**, you'll need to login to react to/comment on the articles. However, you only need to do it once. Whenever you visit the blog again, you can react and comment without logging in.
+
+This only applies to blogs on **custom domains**. If the blog is on the `hashnode.dev` subdomain, you do not need to login again.
 ## What's a Markdown format?
 
 Markdown is a lightweight plaintext markup language that you can use to add elements to plaintext documents rather than using the older WYSIWYG editor. Hashnode's editor supports the Markdown syntax and allows you to format your articles easily.
