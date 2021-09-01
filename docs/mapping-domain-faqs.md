@@ -13,6 +13,6 @@ Domain propagation (the process whereby nameservers update across the internet t
 
 You can use any DNS Propagation Checker of [this](https://www.whatsmydns.net/) to check the current state of your DNS propagation.
 
-## Does Hashnode handle the SSL certification?
+## Does Hashnode handle the SSL certificates?
 
 Once your domain propagates, we'll automatically provision an SSL certificate for you when you visit your blog for the first time. If you are using something like Cloudflare, please bypass it for this domain.
