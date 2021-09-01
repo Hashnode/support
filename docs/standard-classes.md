@@ -63,7 +63,6 @@ Here are the recommended CSS `.class` selectors that you should target when you 
 * blog-series-desc
 * blog-series-cover-container
 * blog-series-cover
-* blog-title
 * blog-header
 * blog-follow-button
 * blog-footer-area
@@ -73,8 +72,6 @@ Here are the recommended CSS `.class` selectors that you should target when you 
 * blog-page-content
 * blog-page-title
 * blog-series-item
-* blog-series-cover
-* blog-series-cover-container
 * blog-series-content
 * blog-series-number
 * blog-similar-article
