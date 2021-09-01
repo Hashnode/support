@@ -27,7 +27,7 @@ Here is how to import your stories from Medium:
 
 ![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1627377600538/5Ax6vSKbt.png?auto=compress)
 
-6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export.
+6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export. You can download your Medium stories as .zip using these [instructions](https://help.medium.com/hc/en-us/articles/115004745787-Download-your-information). 
 
 ![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1627374095978/Z3E3FZK3W.png?auto=compress)
 
