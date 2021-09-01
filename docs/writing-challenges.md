@@ -13,7 +13,7 @@ title: Writing Challenges
 
 ## What are they
 
-Hashnode created writing challenges to help you become better at blogging. By completeing these writing challenges, you win cool badges which you can showcase on your blog.
+Hashnode created writing challenges to help you become better at blogging. By completing these writing challenges, you win cool badges which you can showcase on your blog.
 
 At the moment, there are 5 writing challenges:
 * **Self Starter**

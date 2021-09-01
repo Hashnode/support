@@ -66,7 +66,7 @@ This is a standard sentence with `console.log("yeah!")` in it.
 
 ### Block code
 
-Wrap the code blocks with tripple Grave accent keys. **```** for showing big blocks of code in your content. For example:
+Wrap the code blocks with triple Grave accent keys. **```** for showing big blocks of code in your content. For example:
 
 ```
 if (isServer && user) {
@@ -84,7 +84,7 @@ if (isServer && user) {
 
 Hashnode supports generic code highlighting. This will be applied to the code blocks after you publish the content.
 
-You can select which highlighting to use manually by appending the code language after the beginning Tripple Grave accent keys like so **```javascript**.
+You can select which highlighting to use manually by appending the code language after the beginning Triple Grave accent keys like so **```javascript**.
 
 ## Text Formatting
 
