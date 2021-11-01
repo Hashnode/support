@@ -90,6 +90,14 @@ const features = [
       </>
     ),
   },
+  {
+    title: 'Miscellaneous',
+    description: (
+      <>
+        <li><a href = "https://github.com/Hashnode/support/blob/main/tags.json">List of tags available on Hashnode</a></li>
+      </>
+    ),
+  },
 ];
 
 function Feature({ title, description}) {
