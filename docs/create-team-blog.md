@@ -10,7 +10,7 @@ The Team Blog feature is currently **in beta** (ongoing testing/improvements), a
 
 **Filling up the form doesn’t guarantee access to the team publication. This feature will be available in GA by early 2022** 
 
-However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please [fill this form](https://forms.gle/VcquJ7d9Nagj6LeY8) to request to join the beta access list.
+However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please write to us at support@hashnode.com to request to join the beta access list.
 
 Remember, your _Team Blog_ is still a "blog"; all the features and settings of a _Personal Blog_ still apply. Hence, you can customize your _Team Blog_ as you deem fit using the guides provided [here](account-settings.md).
 
