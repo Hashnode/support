@@ -1,9 +1,14 @@
 ---
 id: create-team-blog
-title: Create Team Blog
+title: Create Team Blog (Beta)
 ---
 
+:::caution Remember
 The Team Blog feature is currently **in beta** (ongoing testing/improvements), and is not available publicly to all Hashnode users, and will become a **paid feature** soon.
+
+::: 
+
+**Filling up the form doesn’t guarantee access to the team publication. This feature will be available in GA by early 2022** 
 
 However, if you think you need this feature to run an **active** team blog and you will be open to **give feedback**, please [fill this form](https://forms.gle/VcquJ7d9Nagj6LeY8) to request to join the beta access list.
 
