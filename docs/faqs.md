@@ -115,7 +115,7 @@ We feature articles that get more traction in a shorter period. We mostly pick a
 
 To add a gif, follow the steps below:
 
-1. Go to your favourite gif site.
+1. Go to your favorite gif site.
 2. Copy a link to the gif you want to add into your blog.
 3. Paste the link into your article using the format below. 
 
