@@ -68,12 +68,14 @@ This is a standard sentence with `console.log("yeah!")` in it.
 
 Wrap the code blocks with triple Grave accent keys. **```** for showing big blocks of code in your content. For example:
 
+~~~
 ```
 if (isServer && user) {
-    store.userStore.currentUser = user;
+  store.userStore.currentUser = user;
 }
 ```
-
+~~~
+    
 The above will look like:
 
 ```
@@ -84,7 +86,22 @@ if (isServer && user) {
 
 Hashnode supports generic code highlighting. This will be applied to the code blocks after you publish the content.
 
-You can select which highlighting to use manually by appending the code language after the beginning Triple Grave accent keys like so **```javascript**.
+You can select which highlighting to use manually by appending the code language after the beginning Triple Grave accent keys like so **```javascript**. For example:
+
+~~~
+```javascript
+function hello() {
+  console.log("Hello Hashnode!")
+}
+```
+~~~
+
+The above will look similar to:
+```javascript
+function hello() {
+  console.log("Hello Hashnode!")
+}
+```
 
 ## Text Formatting
 
@@ -98,8 +115,13 @@ The bold and italics markdown syntax works inside almost any block-level element
 
 Use the greater than sign to format a text as a quote. For example:
 
+```
 > Where there is a will, there is a way!
-Where there is a will, there is a way!
+```
+
+The above will look like:
+
+> Where there is a will, there is a way!
 
 ## Links
 
