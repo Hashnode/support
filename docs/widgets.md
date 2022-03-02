@@ -33,7 +33,7 @@ Here is how to create a widget
 
 ![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495495765/-XRbn2DAS.png?auto=compress)
 
-6. Paste the **embed code** and enter the **widget id** in the field provided (e.g., a widget to add the Twitter timeline os a particular username named **twitter-timeline**).
+6. Paste the **embed code** and enter the **widget id** in the field provided (e.g., a widget to add the Twitter timeline of a particular username named **twitter-timeline**).
 
 ![Hashnode Widgets](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495798761/95XTCODHn.png?auto=compress)
 
