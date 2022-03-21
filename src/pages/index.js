@@ -12,7 +12,8 @@ const features = [
       <>
         <li><a href = "docs/">Using Hashnode</a></li>
         <li><a href = "docs/hashnode-glossary">Hashnode Glossary</a></li>
-        <li><a href = "docs/create-personal-blog">Create Personal Blog</a></li>
+        <li><a href = "docs/create-personal-blog">Create a Personal Blog</a></li>
+        <li><a href = "docs/create-team-blog">Create a Team Blog</a></li>
         <li><a href = "docs/bug-reports-and-feature-request">Bug Reports and Feature Requests</a></li>
 
       </>

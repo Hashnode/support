@@ -38,6 +38,11 @@ body{
   height: auto;
 }
 
+.navbar__logo{
+  max-width: 200px;
+  height: auto;
+}
+
 .navbar__link{
   padding: 4px 8px;
   display: block;
@@ -73,6 +78,7 @@ footer{
 }
 
 .navbar-sidebar{
+  min-width: 300px;
   box-shadow: none;
 }
 
