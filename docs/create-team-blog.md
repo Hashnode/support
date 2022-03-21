@@ -13,7 +13,7 @@ Creators from the top tech teams choose Hashnode to publish their content. You'r
 
 ---
 
-Here is how to create an account on Hashnode:
+## How to create a team blog on Hashnode:
 
 1. Log into your Hashnode account.
 

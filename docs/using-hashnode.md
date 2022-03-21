@@ -1,6 +1,6 @@
 ---
 id: using-hashnode
-title: Using Hashnode
+title: Hashnode Overview
 slug: /
 ---
 
