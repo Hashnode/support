@@ -1,7 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
@@ -23,10 +22,10 @@ const features = [
     title: 'Mapping to Custom Domain',
     description: (
       <>
-       <li><a href = "docs/mapping-domain">Introduction</a></li>
-        <li><a href = "docs/mapping-godaddy">Mapping From GoDaddy</a></li>
-        <li><a href = "docs/mapping-cloudflare">Mapping From Cloudflare</a></li>
-        <li><a href = "docs/mapping-namecheap">Mapping From Namecheap</a></li>
+       <li><a href = "/docs/mapping-domain">Introduction</a></li>
+        <li><a href = "/docs/mapping-godaddy">Mapping From GoDaddy</a></li>
+        <li><a href = "/docs/mapping-cloudflare">Mapping From Cloudflare</a></li>
+        <li><a href = "/docs/mapping-namecheap">Mapping From Namecheap</a></li>
       </>
     ),
   },
@@ -41,7 +40,19 @@ const features = [
         <li><a href = "docs/edit-drafts">Edit Drafts </a></li>
       </>
     ),
-  },{
+  },
+  {
+    title: 'How To Guides',
+    description: (
+      <> 
+        <li><a href = "docs/custom-css">Custom CSS</a></li>
+        <li><a href = "docs/series">Series</a></li>
+        <li><a href = "docs/hashnode-sponsors">Hashnode Sponsors</a></li>
+        <li><a href = "docs/ambassador-program">Hashnode Ambassador</a></li>
+      </>
+    ),
+  },
+  {
     title: 'Settings & Customization',
     description: (
       <>
@@ -76,6 +87,14 @@ const features = [
         <li><a href = "docs/faqs#which-embeds-are-supported-by-hashnode">Which embeds are supported by Hashnode?</a></li>
         <li><a href = "docs/faqs#how-can-i-set-a-canonical-url">How can I set a canonical URL?</a></li>
       
+      </>
+    ),
+  },
+  {
+    title: 'Miscellaneous',
+    description: (
+      <>
+        <li><a href = "https://github.com/Hashnode/support/blob/main/misc/tags.json">List of tags available on Hashnode</a></li>
       </>
     ),
   },

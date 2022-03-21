@@ -13,5 +13,5 @@ Here is how to edit a published article on Hashnode:
 
 3. Edit the article as you deem fit and click on the **Save Post** button to save your changes.
 
-![Edit Article on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1601155937208/HfuIogahD.png?auto=compress)
+![Edit Article on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1614939543830/Tc8c7edtr.png?auto=compress)
 

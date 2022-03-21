@@ -10,12 +10,6 @@ module.exports = {
   organizationName: "hashnode", // Usually your GitHub org/user name.
   projectName: "support", // Usually your repo name.
   themeConfig: {
-      googleAnalytics: {
-        trackingID: 'G-BGRTB830NS',
-        // Optional fields.
-        anonymizeIP: true, // Should IPs be anonymized?
-      },
-  
     navbar: {
       // title: 'Hashnode',
       logo: {
@@ -44,6 +38,9 @@ module.exports = {
       searchParameters: {},
 
       //... other Algolia params
+    },
+    gtag: {
+      trackingID: 'UA-69832919-13',
     },
     footer: {
       links: [

@@ -17,7 +17,7 @@ Hashnode supports the following embeds:
 - Instagram Posts.
 - Giphy GIFs.
 - Runkit.
-- CodeSanbox.
+- CodeSandbox.
 
 The embed markdown syntax is **%[content to embed URL]**.
 
@@ -33,7 +33,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://codepen.io/jshwrnr/pen/jOqdvjr]
 ```
 
-![Embed CodePen](https://cdn.hashnode.com/res/hashnode/image/upload/v1601022549366/zmpIE79j0.png?auto=compress)
+![Embed CodePen](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580233485/IsdNJyF72.png?auto=compress)
 
 ## Tweets
 
@@ -43,7 +43,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://twitter.com/hashnode/status/1275811267047854085]
 ```
 
-![Embed Tweet](https://cdn.hashnode.com/res/hashnode/image/upload/v1601022890295/s7OgI-9MO.png?auto=compress)
+![Embed Tweet](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580382646/yA7dv9ryq.png?auto=compress)
 
 ## Youtube Videos
 
@@ -53,7 +53,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://youtu.be/iYgiOTYTXco]
 ```
 
-![Embed YouTube Video](https://cdn.hashnode.com/res/hashnode/image/upload/v1601022923905/zMCNvGA9_.png?auto=compress)
+![Embed YouTube Video](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580441067/4LFv2UJ38.png?auto=compress)
 
 ## Glitch
 
@@ -63,7 +63,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://glitch.com/embed/#!/embed/glitter-oceanic-scaffold?path=server.js&previewSize=0]
 ```
 
-![Embed Glitch](https://cdn.hashnode.com/res/hashnode/image/upload/v1601023155296/aMx7eQ5WG.png?auto=compress)
+![Embed Glitch](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580507186/G8OkjMwiF.png?auto=compress)
 
 ## GitHub Gists
 
@@ -73,7 +73,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://gist.github.com/BolajiAyodeji/b29af3e364d6fc77c8939ce9f0db5e89]
 ```
 
-![Embed GitHub Gist](https://cdn.hashnode.com/res/hashnode/image/upload/v1601150761373/BO3c2x1Aa.png?auto=compress)
+![Embed GitHub Gist](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580566431/HKjrT_fU6D.png?auto=compress)
 
 ## Soundcloud
 
@@ -83,7 +83,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://soundcloud.com/mkbhd/old-ghosts-full-mix-from]
 ```
 
-![Embed Soundcloud](https://cdn.hashnode.com/res/hashnode/image/upload/v1601150932984/JWVAiZFVj.png?auto=compress)
+![Embed Soundcloud](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580121845/y3_tQ9lod.png?auto=compress)
 
 ## Anchor
 
@@ -93,9 +93,11 @@ In the Hashnode editor, type the embed code like so:
 %[https://anchor.fm/bravenotperfect/episodes/The-Bravery-To-Ask-For-Help-ft--Soledad-OBrien-eiq25m]
 ```
 
-![Embed Anchor](https://cdn.hashnode.com/res/hashnode/image/upload/v1601151431462/p-qJx3nJV.png?auto=compress)
+![Embed Anchor](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580051169/CM_WMKm99.png?auto=compress)
 
 ## Facebook Public Posts
+
+> Due to recent changes in the Facebook product embeds, we are currently not supporting them. However, we are currently working on it!
 
 In the Hashnode editor, type the embed code like so:
 
@@ -113,9 +115,11 @@ In the Hashnode editor, type the embed code like so:
 %[https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF]
 ```
 
-![Embed Spotify](https://cdn.hashnode.com/res/hashnode/image/upload/v1601151682691/HTkbgXISG.png?auto=compress)
+![Embed Spotify](https://cdn.hashnode.com/res/hashnode/image/upload/v1616579754823/xT_3vaSTa.png?auto=compress)
 
 ## Instagram Posts
+
+> Due to recent changes in the Facebook product embeds, we are currently not supporting them. However, we are currently working on it!
 
 In the Hashnode editor, type the embed code like so:
 
@@ -133,7 +137,7 @@ In the Hashnode editor, type the embed code like so:
 %[https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif]
 ```
 
-![Embed GIFs](https://cdn.hashnode.com/res/hashnode/image/upload/v1601152748867/-Tfo580IY.png?auto=compress)
+![Embed GIFs](https://cdn.hashnode.com/res/hashnode/image/upload/v1616577026101/rCtg1rxXD.png?auto=compress)
 
 ## Runkit
 
@@ -143,9 +147,9 @@ In the Hashnode editor, type the embed code like so:
 %[https://runkit.com/bolajiayodeji/5f6fa7407d6a3d001a9f605e]
 ```
 
-![Embed Runkit](https://cdn.hashnode.com/res/hashnode/image/upload/v1601153005365/-FiB6UAQE.png?auto=compress)
+![Embed Runkit](https://cdn.hashnode.com/res/hashnode/image/upload/v1616576908956/IjynbHkTJ.png?auto=compress)
 
-## CodeSanbox
+## CodeSandbox
 
 In the Hashnode editor, type the embed code like so:
 
@@ -153,5 +157,5 @@ In the Hashnode editor, type the embed code like so:
 %[https://codesandbox.io/s/react-new?fontsize=14&hidenavigation=1&theme=dark]
 ```
 
-![Embed CodeSandbox](https://cdn.hashnode.com/res/hashnode/image/upload/v1601153174625/FqqMKg6Eh.png?auto=compress)
+![Embed CodeSandbox](https://cdn.hashnode.com/res/hashnode/image/upload/v1616576847869/9lzjnFpjL.png?auto=compress)
 

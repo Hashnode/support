@@ -17,25 +17,35 @@ Here is how to import your stories from Medium:
 
 3. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 4. Click on the **Blog Dashboard** option from the popup modal to access your blog's dashboard.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495148429/anxbO8ZqM.png?auto=compress)
 
 5. Navigate to **IMPORT**, and click on **Medium Importer** to access the section for importing Medium articles.
 
-![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1611055843007/3Js80onru.png?auto=compress)
+![Hashnode Import](https://cdn.hashnode.com/res/hashnode/image/upload/v1627377600538/5Ax6vSKbt.png?auto=compress)
 
-6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export. The zip file will be uploaded and processed (this may take a few minutes).
+6. Click on the **UPLOAD MEDIUM ZIP FILE** button to upload your medium stories export. You can download your Medium stories as .zip using these [instructions](https://help.medium.com/hc/en-us/articles/115004745787-Download-your-information). 
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611057834660/jJ5eQh8N0.png?auto=compress)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1627374095978/Z3E3FZK3W.png?auto=compress)
 
-7. Check the articles you want to import from the displayed list and click on the **Publish** button.
+7. The zip file will be uploaded and processed (this may take a few minutes). As it says in the image, do not reload the page while the files are uploading!
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611058306311/X4dQDG2wg.png?auto=compress)
+![Importing the Medium ZIP file](https://cdn.hashnode.com/res/hashnode/image/upload/v1627286474500/Y-mnVB1e4.png)
 
-8. Your article(s) will be automatically published, and you can make edits afterward.
+8. Once the articles are imported, you will get a list with all of them. You can select/unselect all of them or you can select/unselect specific articles.
+
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1627286763041/LlSOuxLP9.png?auto=compress)
+
+9. Once the articles are imported, you can either **save them as drafts** or **publish them directly**. The image below shows an example of importing an article as a draft.
+
+![Medium importer Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1627287043740/YPC72iLhu.png?auto=compress)
+
+If you import the articles as drafts, you can find them in your draft list. You can access your draft articles [here](https://hashnode.com/drafts).
+
+If you publish the articles directly, you can see them on your blog.
 
 ## DEV Importer
 
@@ -47,11 +57,11 @@ Here is how to import your articles from DEV:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Blog Dashboard** option from the popup modal to access your blog's dashboard.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495148429/anxbO8ZqM.png?auto=compress)
 
 4. Navigate to **IMPORT**, and click on **DEV Importer** to access the section for importing DEV article(s). 
 
@@ -67,7 +77,7 @@ With the new bulk markdown importer, you can import a zip file containing posts 
 
 1. Go to your blog's dashboard, navigate to the **IMPORT** tab, and click on Bulk Markdown Importer.
 
-![Import Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1608287241440/hwGTtCTR6.png)
+![Import Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1616574938413/Rjzr672Zq.png?auto=compress)
 
 2. Click on **UPLOAD YOUR MARKDOWN ZIP FILE** to upload a zipped version of the markdown file.
 
@@ -78,3 +88,13 @@ With the new bulk markdown importer, you can import a zip file containing posts 
 3. Finally, click on the **Publish** button to publish the markdown file(s) to your blog.
 
 ![Bulk Markdown Importer](https://cdn.hashnode.com/res/hashnode/image/upload/v1608288165414/nWUcJCZmG.png)
+
+## RSS Importer
+
+In addition to our Medium, Dev.to, and Bulk markdown importer, you can also import articles to your Hashnode blog using our RSS importer. 
+
+The RSS importer is the most recommended method to use when migrating articles from WordPress to Hashnode. 😀
+
+![Import from RSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1616158000163/BAjfQAck9.png?auto=compress)
+
+To use the new RSS Importer, go to your blog's dashboard, navigate to Import and click on RSS Importer. In the *Import from RSS* section, enter your RSS feed URL & the tag containing the post body into the input fields. Then, click on Import.

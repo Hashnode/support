@@ -24,15 +24,15 @@ Here is how to add a third-party integration to your blog:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Blog Dashboard** option from the popup modal to access your blog's dashboard.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1601380906521/1QhsZ20tP.png)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616495148429/anxbO8ZqM.png?auto=compress)
 
-4. Click on the **WIDGETS** tab, find the service you want to integrate, paste the embed code in the field provided, and click the **Update** button to save your changes.
+4. Click on the **Integrations** tab, find the service you want to integrate, paste the embed code in the field provided, and click the **Update** button to save your changes.
 
-![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1611068792880/ItdoMuIoC.png)
+![Blog Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1616575385755/n8J9-oGFb.png)
 
 ---
 
@@ -41,7 +41,7 @@ Here is how to add a third-party integration to your blog:
 1. Create or sign in to your Analytics account.
 2. Set up a property in your Analytics account.
 3. Copy your tracking ID (Looks like *UA-123456789-0*).
-4. Head to the **ANALYTICS** tab in your blog's dashboard.
+4. Head to the **INTEGRATIONS** tab in your blog's dashboard.
 5. Paste the tracking ID in the **Google Analytics Tracking ID** input field.
 6. Click the **Update** button to save your changes.
 
@@ -51,7 +51,7 @@ Here is how to add a third-party integration to your blog:
 2. Add a new data source.
 3. Create a Facebook pixel.
 4. Copy your Facebook Pixel ID (Looks like *377164589436266*).
-5. Head to the **ANALYTICS** tab in your blog's dashboard
+5. Head to the **INTEGRATIONS** tab in your blog's dashboard
 6. Paste the Pixel ID in the **Facebook Pixel ID** input field.
 
 ## Plausible Analytics
@@ -59,9 +59,9 @@ Here is how to add a third-party integration to your blog:
 1. Create a Plausible account.
 2. Once you have an account, you can enter the domain name of your Hashnode blog. Please, remove `https` and `www` from the URL and add only the hostname `yourdomain.com`.
 3. Go to your blog's dashboard on Hashnode.
-4. Navigate to the Plausible Analytics section in the **INTEGRATIONS** tab. 
+4. Navigate to the Plausible Analytics section in the **INTEGRATIONS** tab.
 5. Click on the toggle button to enable **Plausible Analytics** on your blog.
-6. Click on the **Update** button to complete the process. 
+6. Click on the **Update** button to complete the process.
 
 ## Hotjar Site ID
 
@@ -70,15 +70,15 @@ Here is how to add a third-party integration to your blog:
 3. Copy your **Site ID**.
 4. Head over to the **INTEGRATIONS** tab and add your **Site ID** to the **Hotjar Site ID** input field.
 5. Click on the **Update** button to save your changes.
-6. Go back to Hotjar's website and enter the URL of your Hashnode blog. 
+6. Go back to Hotjar's website and enter the URL of your Hashnode blog.
 7. Click on the **Verity Installation** button to complete the process.
 
 ## Matomo Analytics
 
 1. Create a Matomo Analytics account.
-2. Copy your **Matomo Site ID** and **Matomo URL**. 
-3. Go to your Hashnode blog dashboard. 
-4. Click on the **INTEGRATIONS** tab and navigate to the **Matomo Analytics** section. 
+2. Copy your **Matomo Site ID** and **Matomo URL**.
+3. Go to your Hashnode blog dashboard.
+4. Click on the **INTEGRATIONS** tab and navigate to the **Matomo Analytics** section.
 5. Add your Matomo Site ID and URL into the input fields.
 6. Click on the **Update** button to save your changes.
 
@@ -87,14 +87,14 @@ Here is how to add a third-party integration to your blog:
 1. Create a Fathom account.
 2. Add a new site in your settings.
 3. Copy your Site ID (Looks like *HUVBAGGT*).
-5. Head to the **ANALYTICS** tab in your blog's dashboard
-6. Paste the Site ID in the **Fathom Analytics Site ID** input field.
-7. Click on the **Update** button to save your changes.
+4. Head to the **INTEGRATIONS** tab in your blog's dashboard
+5. Paste the Site ID in the **Fathom Analytics Site ID** input field.
+6. Click on the **Update** button to save your changes.
 
 ## Meta Tags
 
 1. Use this to insert meta tags in the `<head>` element of your blog (e.g., Google Webmaster Verification Tag).
-2. Head to the **ANALYTICS** tab in your blog's dashboard
+2. Head to the **INTEGRATIONS** tab in your blog's dashboard
 3. Paste the meta tag in the **Meta Tags** input field.
 
 ## Web Monetization Payment Pointer
@@ -103,5 +103,5 @@ Here is how to add a third-party integration to your blog:
 2. Learn what web monetization is and how it works [here](https://webmonetization.org/).
 3. Set up a [web monetized receiver (digital wallet)](https://webmonetization.org/docs/ilp-wallets) for receiving payments.
 4. Copy your payment pointer (Looks like *$ilp.uphold.com/Px2krEJk7GWQ*).
-5. Head to the **ANALYTICS** tab in your blog's dashboard
+5. Head to the **INTEGRATIONS** tab in your blog's dashboard
 6. Paste the meta tag in the **Web Monetization Payment Pointer** input field.

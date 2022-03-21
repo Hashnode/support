@@ -9,15 +9,15 @@ Here is how to update your profile page on Hashnode:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Account Settings** option from the popup modal to access the settings page.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492600113/SKbBNpdk9.png?auto=compress)
 
 4. On the **PROFILE** page, you can update your **Basic Info**, **About You**, **Social**, and **Profile Identity**.
 
-![Hashnode Profile Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1600772530063/EQogkdi62.png?auto=compress)
+![Hashnode Profile Page](https://cdn.hashnode.com/res/hashnode/image/upload/v1616493560565/3NZwerzvD.png?auto=compress)
 
 ---
 
@@ -49,15 +49,15 @@ Here is how to modify your email preference:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Account Settings** option from the popup modal to access the settings page.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492600113/SKbBNpdk9.png?auto=compress)
 
 4. Click on the **EMAIL NOTIFICATIONS** tab.
 
-![Hashnode Notifications Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1600772663739/w8xqT3bum.png?auto=compress)
+![Hashnode Notifications Tab](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492141495/N6vSHDkjp.png?auto=compress)
 
 5. You will now see all the preference options:
 
@@ -71,42 +71,6 @@ Here is how to modify your email preference:
 - Monthly blog posts stats newsletter
 
 6. Check any option you want and click the **Update** button to update your email preference.
-
-
-# Push Notifications
-
-Here is how to activate push notifications:
-
-1. Log in to your Hashnode account.
-
-2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
-
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
-
-3. Click on the **Account Settings** option from the popup modal to access the settings page.
-
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
-
-2. Click on the **PUSH NOTIFICATIONS** tab.
-
-![Hashnode Push Notifications](https://cdn.hashnode.com/res/hashnode/image/upload/v1600772916024/bmaeu8xrw.png?auto=compress)
-
-3. Click on the Allow button to activate Push Notifications on your current browser. 
-
-![Hashnode Push Notifications](https://cdn.hashnode.com/res/hashnode/image/upload/v1600772987144/ksErC87Tv.png?auto=compress)
-
-4. A notification popup will be displayed on your screen; click on the **Allow** button to grant Hashnode permission to send you notifications.
-
-![Notification Popup Button](https://cdn.hashnode.com/res/hashnode/image/upload/v1600773055769/Iwy7id_UG.png?auto=compress)
-
-5. Use the checkboxes available to select the kind of notification you want to receive. The **Do not disturb** option will turn off push notifications permanently.
-
-![Update Push Notification](https://cdn.hashnode.com/res/hashnode/image/upload/v1600774133093/0vBrjkb5Q.png?auto=compress)
-
-6. Click on the **Update** button to save any change.
-
----
-
 # Developer Access Token
 
 Personal Access Token is like a private key to your Hashnode account, which should not be disclosed. You can use this personal access token to interact with your Hashnode account using our APIs.
@@ -119,15 +83,15 @@ Here is how to generate your Hashnode Developer Access Token:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Account Settings** option from the popup modal to access the settings page.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492600113/SKbBNpdk9.png?auto=compress)
 
 4. Click on the **DEVELOPER** tab.
 
-![Hashnode Developer Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1600774336475/Zqx1nplVH.png?auto=compress)
+![Hashnode Developer Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1616493663953/v8IHjjD3W.png?auto=compress)
 
 5. Click the **Generate New Token** button to generate a new token for your account.
 
@@ -135,11 +99,11 @@ Here is how to generate your Hashnode Developer Access Token:
 
 6. You will now see an auto-generated token in the **Your Tokens** section.
 
-![Hashnode Developer Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1600775290709/iythB2m16.png?auto=compress)
+![Hashnode Developer Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1616493720360/EXLfNWBIGD.png?auto=compress)
 
 7. Click on the **Revoke** text beneath the token to revoke access to the generated token.
 
-![Hashnode Developer Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1600775637849/RPgp1qk_Z.png?auto=compress)
+![Hashnode Developer Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1616493795362/r9vide8A1.png?auto=compress)
 
 ---
 
@@ -163,23 +127,23 @@ Here is how to delete your Hashnode account:
 
 2. Click on your **profile picture** at the bottom-left corner of the page on *desktop* screen or top-right corner on *mobile* screen.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711465204/4Mb1R5qj8.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492775188/7u9FsH_We.png?auto=compress)
 
 3. Click on the **Account Settings** option from the popup modal to access the settings page.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1600711482292/HWdEHb_oZ.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1616492600113/SKbBNpdk9.png?auto=compress)
 
 4. Click on the **ACCOUNT** tab.
 
-![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1600775744270/fzKs_OwCg.png?auto=compress)
+![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1616493976087/DiA0tYXf7.png?auto=compress)
 
 5. You will now see a warning in the **Delete account** section displaying all *Personal* and *Team* blogs associated with your account.
 
-![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1600775744270/fzKs_OwCg.png?auto=compress)
+![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1616494026619/U-jBUGBsA.png?auto=compress)
 
 6. Click on the **Delete your account** button.
 
-![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1600775919678/tW-VTICZ_.png?auto=compress)
+![Hashnode Accounts](https://cdn.hashnode.com/res/hashnode/image/upload/v1616494026619/U-jBUGBsA.png?auto=compress)
 
 7. A pop will appear now with another warning message and a confirmation form. Please read the warning carefully.
 

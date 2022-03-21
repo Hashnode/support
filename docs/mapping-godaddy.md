@@ -23,9 +23,9 @@ This section covers how to map a domain hosted or purchased on GoDaddy to Hashno
 
 ![Add Button](https://cdn.hashnode.com/res/hashnode/image/upload/v1611180996708/jNpmbSdZX.png?auto=compress)
 
-6. Select `A` as the type, and add `@` or  `blog` as the host. Finally, point it to `192.241.200.144`.
+6. Select `A` as the type, and add `@` or  `blog` as the host. Finally, point it to `76.76.21.21`.
 
-![A record](https://cdn.hashnode.com/res/hashnode/image/upload/v1611179878013/XY7ZtaCrx.png?auto=compress)
+![A record](https://cdn.hashnode.com/res/hashnode/image/upload/v1626787701937/RND2YCzNL.png?auto=compress)
 
 7. Click on **Save**.
 

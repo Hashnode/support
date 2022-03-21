@@ -7,7 +7,7 @@ Find below frequently asked questions about Hashnode:
 
 ## How can I add a custom domain to my blog?
 
-Learn how to add and set up a custom domain to your Hashnode blog [here](mapping-domain).
+Learn how to add and set up a custom domain to your Hashnode blog [here](mapping-domain.md).
 
 ## How can I change my Hashnode username?
 
@@ -17,6 +17,13 @@ Send an email to [hello@hashnode.com](mailto:hello@hashnode.com?subject=Change%2
 
 You don't need to save a draft because it's already saved automatically for you when you start writing.
 
+## Why do I have to login again to react/comment to articles?
+
+![Screenshot of the login process](https://cdn.hashnode.com/res/hashnode/image/upload/v1629965591841/ueNECeuQ0.png)
+
+When you visit a blog on a custom domain for **the first time**, you'll need to login to react to/comment on the articles. However, you only need to do it once. Whenever you visit the blog again, you can react and comment without logging in.
+
+This only applies to blogs on **custom domains**. If the blog is on the `hashnode.dev` subdomain, you do not need to login again.
 ## What's a Markdown format?
 
 Markdown is a lightweight plaintext markup language that you can use to add elements to plaintext documents rather than using the older WYSIWYG editor. Hashnode's editor supports the Markdown syntax and allows you to format your articles easily.
@@ -51,7 +58,7 @@ Hashnode supports the following embeds:
 - Instagram Posts.
 - Giphy GIFs.
 - Runkit.
-- CodeSanbox.
+- CodeSandbox.
 
 ## How can I add a table in a blog post?
 
@@ -103,3 +110,15 @@ To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/t
 ## What criteria does Hashnode use to select **Featured** articles?
 
 We feature articles that get more traction in a shorter period. We mostly pick articles targeted towards a wider developer audience (i.e., general programming in nature).
+
+## How can I add a gif to a Hashnode article?
+
+To add a gif, follow the steps below:
+
+1. Go to your favourite gif site.
+2. Copy a link to the gif you want to add into your blog.
+3. Paste the link into your article using the format below. 
+
+```
+![Gif description](link here)
+```

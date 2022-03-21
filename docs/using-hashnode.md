@@ -6,7 +6,7 @@ slug: /
 
 Hashnode is a free developer blogging platform that allows you to publish articles on your domain and helps you stay connected with a global developer community.
 
-With Hashnode, you can create a [personal blog](create-personal-blog) or [team blog](create-team-blog) on your domain for free without sacrificing visibility, reach, and total independence of your content and canonical.
+With Hashnode, you can create a [personal blog](create-personal-blog.md) or [team blog](create-team-blog.md) on your domain for free without sacrificing visibility, reach, and total independence of your content and canonical.
 
 ## How Hashnode Works
 
@@ -16,13 +16,13 @@ We also feature top articles on the **🔥Best** section at the top of our feeds
 
 ## Create an Account
 
-To get started with Hashnode, you need to create a free account using any of our multiple authentication options. With your Hashnode account, you can [create a personal blog](create-personal-blog), [create multiple team blogs](create-team-blog),  [publish your own articles](write-an-article), [interact with the community](#read-articles), follow your favourite blogs, bookmark articles, [join writing challenges](#join-the-2articles1week-challenge) and much more.
+To get started with Hashnode, you need to create a free account using any of our multiple authentication options. With your Hashnode account, you can [create a personal blog](create-personal-blog.md), [create multiple team blogs](create-team-blog.md),  [publish your own articles](write-an-article.md), [interact with the community](#read-articles), follow your favourite blogs, bookmark articles, [join writing challenges](#join-the-2articles1week-challenge) and much more.
 
 [Sign in and Create an account](#create-an-account) using our passwordless authentication process with your email address or social accounts.
 
 ## Write Articles
 
-You can [write and publish](write-an-article) articles using our powerful markdown editor and get your content distributed to all Hashnode users who follow tags related to your article, your followers, and the general public. If you enable the [newsletter](newsletter) feature, your subscribers will get notified immediately you publish a new article.
+You can [write and publish](write-an-article.md) articles using our powerful markdown editor and get your content distributed to all Hashnode users who follow tags related to your article, your followers, and the general public. If you enable the [newsletter](newsletter.md) feature, your subscribers will get notified immediately you publish a new article.
 
 ## Read Articles
 
@@ -36,10 +36,6 @@ As developers, we write to share knowledge, document our learnings, and improve 
 
 ![Hashnode Challenges](https://cdn.hashnode.com/res/hashnode/image/upload/v1607959597538/RahvoD9aV.png?auto=compress&auto=compress)
 
--   [Self Starter](https://hashnode.com/challenge/self-starter): Publish your first article on Hashnode and become a self-starter!
--   [Crazy Blogger](https://hashnode.com/challenge/crazy-blogger): Publish an article every day for 7 days and earn a cool crazy blogger badge!
--   [Word Warrior](https://hashnode.com/challenge/word-warrior): Write an in-depth article on your Hashnode blog that's more than 2000 words and become a word warrior!
--   [Talk of the town](https://hashnode.com/challenge/talk-of-the-town): Write a story that drives excellent engagement on Hashnode and become the talk of the town!
--   [#2Articles1Week Challenge](https://hashnode.com/challenge/2articles1week): Become better at technical writing; accept Hashnode's writing challenge for four weeks.
+**Read more about the writing challenges on the "[Writing Challenges](writing-challenges.md)" page.**
 
-⏩ Go to your [Hashnode feed](https://hashnode.com/) and find challenges on the right-hand sidebar.
+⏩ You can also find the challenges on the Hashnode homepage. Go to your [Hashnode feed](https://hashnode.com/) and find challenges on the right-hand sidebar.
