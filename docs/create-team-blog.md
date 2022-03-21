@@ -17,13 +17,11 @@ Here is how to create an account on Hashnode:
 
 1. Log into your Hashnode account.
 
-2. Click on the dropdown button beside the "Write button" on the Hashnode header.
+2. Click on the **Dropdown button** beside the "Write button" on the Hashnode header.
 
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614932849541/cBNDGKXMj.png?auto=compress)
+![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1647855676958/0Nstu9S0P.png?auto=compress)
 
 3. Click on the **Start a team blog** option from the dropdown menu.
-
-![Hashnode's Feed](https://cdn.hashnode.com/res/hashnode/image/upload/v1614933201339/atOcHm26X.png?auto=compress)
 
 4. Decide the blog's destination. Hashnode gives you a sub-domain for free forever. If you intend to use hashnode.dev as your company's blog, enter your company's name in the input field. For ex: enter `google` for `google.hashnode.dev`. **Skip to step 9.** If you want to map a custom domain, proceed to step 5.
 
