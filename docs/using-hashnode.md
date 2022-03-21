@@ -28,7 +28,7 @@ You can [write and publish](write-an-article.md) articles using our powerful mar
 
 You can read articles from thousands of writers from diverse regions, and interact with them by [reacting on their article](hashnode-glossary#reaction), giving feedback by commenting and sharing their article.
 
-Don't forget to [follow your preferred tags](https://hashnode.com/tags) to ensure that our feeds algorithm recommends articles that match your interest.
+Don't forget to [follow your preferred tags](https://hashnode.com/explore/tags?category=week) to ensure that our feeds algorithm recommends articles that match your interest.
 
 ## Writing Challenges
 

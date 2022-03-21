@@ -104,7 +104,7 @@ Our badge cron job runs once per day. So, your badge will reflect in 24 hours. I
 
 ## How can I become a tag moderator on Hashnode?
 
-To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/tags) you want to moderate, and fill up [this form](https://forms.gle/WxMGRQ9thEgYSuM29). We will review and assign the role to you.
+To become a tag moderator on Hashnode, identify the [tag](https://hashnode.com/explore/tags?category=week) you want to moderate, and fill up [this form](https://forms.gle/WxMGRQ9thEgYSuM29). We will review and assign the role to you.
 
 
 ## What criteria does Hashnode use to select **Featured** articles?

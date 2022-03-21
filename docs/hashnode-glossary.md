@@ -20,7 +20,7 @@ This allows you to express how you feel about an article alongside appreciating 
 
 ## Feeds
 
-Here, you'll see different articles published by developers across the world. You can customize your feed content by following your desired [blogs](https://hashnode.com/explore) and [tags](https://hashnode.com/tags).
+Here, you'll see different articles published by developers across the world. You can customize your feed content by following your desired [blogs](https://hashnode.com/explore) and [tags](https://hashnode.com/explore/tags?category=week).
 
 ## View Changer
 
