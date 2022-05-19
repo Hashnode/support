@@ -23,7 +23,7 @@ This section covers how to map a domain hosted or purchased on Namecheap to Hash
 
 6. Click on the **Add New Record** button in the **Host Records** section. 
 
-7. Select **CNAME Record** from the drop-down menu. Enter `@` under host, `hashnode.network`, and a **TTL** of 30 minutes.
+7. Select **CNAME Record** from the drop-down menu. Enter `@` under host, `hashnode.network` under target, and a **TTL** of 30 minutes.
 
 
 > Domain propagation (the process whereby nameservers update across the internet to reflect a change in a domain's DNS record) takes 0 - 48 hours to start working in all locations across the internet. Once your domain propagates, we will automatically provision an SSL certificate for you when you visit your blog for the first time.
