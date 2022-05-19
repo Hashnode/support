@@ -66,6 +66,14 @@ const features = [
     ),
   },
   {
+    title: 'Features',
+    description: (
+      <>
+        <li><a href = "docs/github-as-source">Github as source</a></li>
+      </>
+    ),
+  },
+  {
     title: 'Safety & Policies',
     description: (
       <>
