@@ -11,14 +11,6 @@ In this guide, you learn everything you need to know about the Custom CSS featur
 
 ---
 
-## How to get access to the Custom CSS feature
-
-When we introduced the [Hashnode Ambassador](https://hashnode.com/ambassador) program, we included "Early Beta Access" as one of the privileges and perks of the program. The Custom CSS feature is in closed beta, and therefore only Hashnode Ambassadors can access it. 
-
-If you need access, consider becoming an [ambassador](https://hashnode.com/ambassador) by inviting a friend to use Hashnode. 😃 
-
----
-
 ## Standard CSS `.class` selectors
 
 [Here's a list](standard-classes.md) of recommended CSS classes that you should target when you want to use our Custom CSS feature to style your Hashnode blog. We don't recommend targeting classes that are not on this list.
