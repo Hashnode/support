@@ -5,19 +5,19 @@ title: Embeds
 
 Hashnode supports the following embeds:
 
-- CodePen.
-- Tweets.
-- Youtube Videos.
-- Glitch.
-- GitHub Gists.
-- Soundcloud.
-- Anchor.
-- Facebook Public Posts.
-- Spotify.
-- Instagram Posts.
-- Giphy GIFs.
-- Runkit.
-- CodeSandbox.
+- [CodePen](#codepen).
+- [Tweets](#tweets).
+- [Youtube Videos](#youtube-videos).
+- [Glitch](#glitch).
+- [GitHub Gists](#github-gists).
+- [Soundcloud](#soundcloud).
+- [Anchor](#anchor).
+- [Facebook Public Posts](#facebook-public-posts).
+- [Spotify](#spotify).
+- [Instagram Posts](#instagram-posts).
+- [Giphy GIFs](#giphy-gifs).
+- [Runkit](#runkit).
+- [CodeSandbox](#codesandbox).
 
 The embed markdown syntax is **%[content to embed URL]**.
 
@@ -25,7 +25,7 @@ The embed markdown syntax is **%[content to embed URL]**.
 
 Here's how to use the different supported embeds in your articles:
 
-## CodePen
+## CodePen <a name= "codepen"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -35,7 +35,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed CodePen](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580233485/IsdNJyF72.png?auto=compress)
 
-## Tweets
+## Tweets <a name= "tweets"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -45,7 +45,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Tweet](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580382646/yA7dv9ryq.png?auto=compress)
 
-## Youtube Videos
+## Youtube Videos <a name= "youtube-videos"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -55,7 +55,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed YouTube Video](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580441067/4LFv2UJ38.png?auto=compress)
 
-## Glitch
+## Glitch <a name= "glitch"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -65,7 +65,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Glitch](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580507186/G8OkjMwiF.png?auto=compress)
 
-## GitHub Gists
+## GitHub Gists <a name= "github-gists"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -75,7 +75,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed GitHub Gist](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580566431/HKjrT_fU6D.png?auto=compress)
 
-## Soundcloud
+## Soundcloud <a name= "soundcloud"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -85,7 +85,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Soundcloud](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580121845/y3_tQ9lod.png?auto=compress)
 
-## Anchor
+## Anchor <a name= "anchor"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -95,7 +95,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Anchor](https://cdn.hashnode.com/res/hashnode/image/upload/v1616580051169/CM_WMKm99.png?auto=compress)
 
-## Facebook Public Posts
+## Facebook Public Posts <a name= "facebook-public-posts"></a>
 
 > Due to recent changes in the Facebook product embeds, we are currently not supporting them. However, we are currently working on it!
 
@@ -107,7 +107,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Facebook Post](https://cdn.hashnode.com/res/hashnode/image/upload/v1601151550000/_5sjuYfQo.png?auto=compress)
 
-## Spotify
+## Spotify <a name= "spotify"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -117,7 +117,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Spotify](https://cdn.hashnode.com/res/hashnode/image/upload/v1616579754823/xT_3vaSTa.png?auto=compress)
 
-## Instagram Posts
+## Instagram Posts <a name= "instagram-posts"></a>
 
 > Due to recent changes in the Facebook product embeds, we are currently not supporting them. However, we are currently working on it!
 
@@ -129,7 +129,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Instagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1601151792437/EduNCmGSH.png?auto=compress)
 
-## Giphy GIFs
+## Giphy GIFs <a name= "giphy-gifs"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -139,7 +139,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed GIFs](https://cdn.hashnode.com/res/hashnode/image/upload/v1616577026101/rCtg1rxXD.png?auto=compress)
 
-## Runkit
+## Runkit <a name= "runkit"></a>
 
 In the Hashnode editor, type the embed code like so:
 
@@ -149,7 +149,7 @@ In the Hashnode editor, type the embed code like so:
 
 ![Embed Runkit](https://cdn.hashnode.com/res/hashnode/image/upload/v1616576908956/IjynbHkTJ.png?auto=compress)
 
-## CodeSandbox
+## CodeSandbox <a name= "codesandbox"></a>
 
 In the Hashnode editor, type the embed code like so:
 
