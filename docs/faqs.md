@@ -48,16 +48,16 @@ Hashnode supports the following embeds:
 
 - CodePen.
 - Tweets.
-- Youtube Videos.
+- YouTube Videos.
 - Glitch.
 - GitHub Gists.
-- Soundcloud.
+- SoundCloud.
 - Anchor.
 - Facebook Public Posts.
 - Spotify.
 - Instagram Posts.
 - Giphy GIFs.
-- Runkit.
+- RunKit.
 - CodeSandbox.
 
 ## How can I add a table in a blog post?
