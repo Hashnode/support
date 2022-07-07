@@ -16,7 +16,7 @@ We also feature top articles on the **🔥Best** section at the top of our feeds
 
 ## Create an Account
 
-To get started with Hashnode, you need to create a free account using any of our multiple authentication options. With your Hashnode account, you can [create a personal blog](create-personal-blog.md), [create multiple team blogs](create-team-blog.md),  [publish your own articles](write-an-article.md), [interact with the community](#read-articles), follow your favourite blogs, bookmark articles, [join writing challenges](#join-the-2articles1week-challenge) and much more.
+To get started with Hashnode, you need to create a free account using any of our multiple authentication options. With your Hashnode account, you can [create a personal blog](create-personal-blog.md), [create multiple team blogs](create-team-blog.md),  [publish your own articles](write-an-article.md), [interact with the community](#read-articles), follow your favourite blogs, bookmark articles, [join writing challenges](https://support.hashnode.com/docs/writing-challenges/) and much more.
 
 [Sign in and Create an account](#create-an-account) using our passwordless authentication process with your email address or social accounts.
 
