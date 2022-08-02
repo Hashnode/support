@@ -111,6 +111,8 @@ function hello() {
 
 The bold and italics markdown syntax works inside almost any block-level element, like Quotes, Lists, Inline code, etc.
 
+~~Strikethrough:~~ Wrap the text with double tildes `~~` to strike through the text. We will wrap the text with the `<s>` tag while parsing.
+
 ## Quotes
 
 Use the greater than sign to format a text as a quote. For example:
